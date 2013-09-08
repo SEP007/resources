@@ -10,7 +10,7 @@ From a technical point to view, LMVC Patat is build using the micro [LMVC-Framew
 
 Pitfalls are that [cloc](http://cloc.sourceforge.net/) told me that the project over all has *24720 sloc* of which probably *20k* is library source code.
 
-**Addition and changes to the system might inlcude:**
+**Addition and changes to the system might inlcude**
 
 * Migrating the database to [Postgres](http://www.postgresql.org/) or [MongoDB](http://www.mongodb.org/) for easier geo-spartial queries
    * This might include extending the ORM-Layer ([Troba](https://github.com/scandio/troba))
@@ -25,9 +25,22 @@ Pitfalls are that [cloc](http://cloc.sourceforge.net/) told me that the project 
 ## Diaspora [on GitHub](https://github.com/diaspora/diaspora)
 
 [Diaspora](https://joindiaspora.com/) is a a privacy aware, distributed, open source social network. Single installations of the software are in the form of [nodes](http://podupti.me/) (termed "pods") which make up the distributed Diaspora social network. The thrilling part here is that it is not centralised but completely de-centralised and everybody can host his own node.
-For more information I suggest reading the article on [wikipedia](http://en.wikipedia.org/wiki/Diaspora_(software). It may seems awkfully confusing at first but the idea is almost too novel.
+For more information I suggest reading the article on [wikipedia](http://en.wikipedia.org/wiki/Diaspora_(software). It may seems awfully confusing at first but the idea is almost too novel.
 
 Looking at it from a technical perspective means having a complete web application where all server-side code is written in Ruby and the front-end parts are written in [JavaScript](https://github.com/diaspora/diaspora/tree/develop/app/assets/javascripts) without supporting frameworks.
 
+**Possible additions and changes**
+
 A list of possible features can be found on their [project site](https://wiki.diasporafoundation.org/Known_Issues_and_Feature_Requests).
 
+## Huboard [on GitHub](https://github.com/rauhryan/huboard)
+
+Huboard is an instant project management tool which integrates with GitHub. The integration includes loading all issues from a project's issue tracker (e.g. [Huboard's](https://github.com/rauhryan/huboard/issues)). These will then be listed in Huboard and are manageable on its lightweight Kanban board. The Kanban board moreover allows for assigning people and managing tags and milestones. Its main feature nevertheless is dragging and dropping issues across the board while assigning people to them. Lastly, it is possible to manage issues and their milestones visually while prioritising milestones.
+
+The interessing part here is that we could integrate learnings from the agile course into the project. The project overall seems to have a solid foundation and gained some tracktion when it came out but lacked contribution ever since.
+
+After all, it's all written in Ruby with the usual additions of JavaScript and CSS on the client-side.
+
+**Possible additions and changes**
+
+The author references the open [issue tracker](https://github.com/rauhryan/huboard/issues) and encourages fixing general bugs. Moreover, there is a `please-contribute`-tag ([link](https://github.com/rauhryan/huboard/issues?labels=Please+contribute&page=1&state=open)) which lists possible features and migrations. Lastly, we can always add own features.
