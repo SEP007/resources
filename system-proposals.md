@@ -8,7 +8,13 @@ Moreover, every restaurant has its own "domain-page" which lists normal and adve
 
 From a technical point to view, LMVC Patat is build using the micro [LMVC-Framework](https://github.com/scandio/lmvc) and its [module system](https://github.com/scandio/lmvc-modules), especially the [asset pipeline](https://github.com/scandio/lmvc-modules/tree/master/lib/Scandio/lmvc/modules/assetpipeline) which are all written in PHP 5.4.
 
+**Cons in picking this**
+
 Pitfalls are that [cloc](http://cloc.sourceforge.net/) told me that the project over all has *24720 sloc* of which probably *20k* is library source code. Anyhow, taking the underlying module-system, ORM-layer and the library itself gives us a decent amount to work with.
+
+**Pros in picking this**
+
+The group has one member knowing the libraries involved and the whole language stack. I would not mind teaching and giving short introductions on how stuff is wired. Moreover, the product and the libraries have areas in which they can evolve - this system has potential.
 
 **Addition and changes to the system might inlcude**
 
@@ -31,6 +37,14 @@ For more information I suggest reading the article on [wikipedia](http://en.wiki
 
 Looking at it from a technical perspective means having a complete web application where all server-side code is written in Ruby and the front-end parts are written in [JavaScript](https://github.com/diaspora/diaspora/tree/develop/app/assets/javascripts) without supporting frameworks.
 
+**Cons in picking this**
+
+Challenging from a technical standpoint. No group member knows Ruby and the learning curve might be flat. Features requested are mostly boundled components such as chat-functionality which might be hard to divide into minor parts.
+
+**Pros in picking this**
+
+The novelty of the system and its potential learning outcome. If the group is willing to learn Ruby as a language which also means putting in some extra effort this system could yield a high learning outcome from a technical perspective.
+
 **Possible additions and changes**
 
 A list of possible features can be found on their [project site](https://wiki.diasporafoundation.org/Known_Issues_and_Feature_Requests).
@@ -42,6 +56,14 @@ Huboard is an instant project management tool which integrates with GitHub. The 
 The interessing part here is that we could integrate learnings from the agile course into the project. The project overall seems to have a solid foundation and gained some tracktion when it came out but lacked contribution ever since.
 
 After all, it's all written in Ruby with the usual additions of JavaScript and CSS on the client-side.
+
+**Cons in picking this**
+
+Personally only from a language perspective if everybody has no problem in learning another language an putting in extra hours this system can be a lot of fun.
+
+**Pros in picking this**
+
+We can incorporate learning from the Agile Development course and might have an lower entry cost thereby. The product itself seems to have a solid base but not a whole lot of features. It has a good balence between being good enough and offering opportunities. Especially as we can use the product during its own development (integration with GitHub) - how cool's that!
 
 **Possible additions and changes**
 
