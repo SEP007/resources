@@ -8,7 +8,7 @@ Moreover, every restaurant has its own "domain-page" which lists normal and adve
 
 From a technical point to view, LMVC Patat is build using the micro [LMVC-Framework](https://github.com/scandio/lmvc) and its [module system](https://github.com/scandio/lmvc-modules), especially the [asset pipeline](https://github.com/scandio/lmvc-modules/tree/master/lib/Scandio/lmvc/modules/assetpipeline) which are all written in PHP 5.4.
 
-Pitfalls are that [cloc](http://cloc.sourceforge.net/) told me that the project over all has *24720 sloc* of which probably *20k* is library source code.
+Pitfalls are that [cloc](http://cloc.sourceforge.net/) told me that the project over all has *24720 sloc* of which probably *20k* is library source code. Anyhow, taking the underlying module-system, ORM-layer and the library itself gives us a decent amount to work with.
 
 **Addition and changes to the system might inlcude**
 
@@ -16,9 +16,11 @@ Pitfalls are that [cloc](http://cloc.sourceforge.net/) told me that the project 
    * This might include extending the ORM-Layer ([Troba](https://github.com/scandio/troba))
 * GUI enhancements and migration to [Twitter Bootstrap 3](http://getbootstrap.com/)
 * Rewrite and extensions to underlying frameworks
-   * View handling in [LVMC](https://github.com/scandio/lmvc) - allowing nested views
    * Find a better solution for snippet support (resuable UI-components for LMVC's views)
    * Optimising the [asset pipeline](https://github.com/scandio/lmvc-modules/tree/master/lib/Scandio/lmvc/modules/assetpipeline)
+* Rewrite view handling in [LVMC](https://github.com/scandio/lmvc)
+   * Allow nested views, not just master-to-subtemplate
+   * Extract and decouple views from controllers and make it an own component with hierarchies and lazy re-rendering
 * Transforming it into a [single page web application](https://en.wikipedia.org/wiki/Single-page_application)
    * Extending LMVC to integrate easier with [Backbone](http://backbonejs.org/) or any other framework
 
@@ -50,10 +52,11 @@ The author references the open [issue tracker](https://github.com/rauhryan/huboa
 TravelGuide is an Android application designed to serve the purpose of providing tourist attractions, hotels, restaurants at a chosen location.
 Users enter their choice of location and radius within to display tourist attractions. The application uses Google Places API to gather the tourist attractions at the given place. The Google Places API request returns an XML file, which is parsed to fetch the required fields. The fields displayed in the App are "Name of the Attraction", "Address of the attraction" and "the rating of the attraction". The App displays approximately around "20" attractions for a given location.
 
-Points that speak for this system proposal:
-- we could further improve our skills in Android app development,
-- benefit from Tobi's domain knowledge and use reference apps as help to come up with requirements
-- and get to know the Google Places API.
+**Points that speak for this system proposal**
+
+* we could further improve our skills in Android app development,
+* benefit from Tobi's domain knowledge and use reference apps as help to come up with requirements
+* and get to know the Google Places API.
 
 **Possible additions and changes**
 
@@ -67,12 +70,13 @@ But I am sure that we could come up with far more requirements considering that 
 ## ScumIt ([on GitHub](https://github.com/ti-dev/Scrum-it))
 
 ScrumIt is a digitial Scrum board that supports Scrum teams in managing projects, team members, sprints, userstories, tasks and the burn down chart.
-It is said to use modern and multi-touch (whatever that means) technologies such as HTML5 / CSS3, jQuery and jQuery Mobile and the backend system with Java EE, Tomcat, MySQL, Hibernate, Envers. I (Dani) have only experience with Java EE and Hibernate. 
+It is said to use modern and multi-touch (whatever that means) technologies such as HTML5 / CSS3, jQuery and jQuery Mobile and the backend system with Java EE, Tomcat, MySQL, Hibernate, Envers. I (Dani) have only experience with Java EE and Hibernate.
 
-Points that speak for this system proposal:
-- we could benefit from the knowledge we have been building since the Agile Software Development course
-- use the system for our own organziation or the organization of further projects
-- and get to know a lot of technologies at once
+**Points that speak for this system proposal**
+
+* we could benefit from the knowledge we have been building since the Agile Software Development course
+* use the system for our own organziation or the organization of further projects
+* and get to know a lot of technologies at once
 
 **Possible additions and changes**
 
