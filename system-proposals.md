@@ -44,3 +44,36 @@ After all, it's all written in Ruby with the usual additions of JavaScript and C
 **Possible additions and changes**
 
 The author references the open [issue tracker](https://github.com/rauhryan/huboard/issues) and encourages fixing general bugs. Moreover, there is a `please-contribute`-tag ([link](https://github.com/rauhryan/huboard/issues?labels=Please+contribute&page=1&state=open)) which lists possible features and migrations. Lastly, we can always add own features.
+
+## TravelGuide ([on GitHub](https://github.com/bhagya85/TravelGuide))
+
+TravelGuide is an Android application designed to serve the purpose of providing tourist attractions, hotels, restaurants at a chosen location.
+Users enter their choice of location and radius within to display tourist attractions. The application uses Google Places API to gather the tourist attractions at the given place. The Google Places API request returns an XML file, which is parsed to fetch the required fields. The fields displayed in the App are "Name of the Attraction", "Address of the attraction" and "the rating of the attraction". The App displays approximately around "20" attractions for a given location.
+
+Points that speak for this system proposal:
+- we could further improve our skills in Android app development,
+- benefit from Tobi's domain knowledge and use reference apps as help to come up with requirements
+- and get to know the Google Places API.
+
+**Possible additions and changes**
+
+Few improvements have already been suggested by the inital developers:
+- A favourties page, where users would be able to save their favourite attractions.
+- A field that would return the distance from the current location to the tourist attraction, and also the phone number of the attraction.
+- An option to show directions to the chosen attraction from the current location.
+
+But I am sure that we could come up with far more requirements considering that we have Tobi as domain expert and a bunch of reference apps.
+
+## ScumIt ([on GitHub](https://github.com/ti-dev/Scrum-it))
+
+ScrumIt is a digitial Scrum board that supports Scrum teams in managing projects, team members, sprints, userstories, tasks and the burn down chart.
+It is said to use modern and multi-touch (whatever that means) technologies such as HTML5 / CSS3, jQuery and jQuery Mobile and the backend system with Java EE, Tomcat, MySQL, Hibernate, Envers. I (Dani) have only experience with Java EE and Hibernate. 
+
+Points that speak for this system proposal:
+- we could benefit from the knowledge we have been building since the Agile Software Development course
+- use the system for our own organziation or the organization of further projects
+- and get to know a lot of technologies at once
+
+**Possible additions and changes**
+
+This is the bad news. There are no open issues on GitHub. That means that we have to use our brains to come up with plenty requirements.
