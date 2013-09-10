@@ -13,7 +13,5 @@ Just listing the minutes, summing them up and calculating the final fee.
 |           |           |           |           |           |
 |           |           |           |           |           |
 |           |           |           |           |           |
-|-----------|-----------|-----------|-----------|-----------|
 | **x min** | **x min** | **x min** | **x min** | **x min** |
-|-----------|-----------|-----------|-----------|-----------|
 | **x SEK** | **x SEK** | **x SEK** | **x SEK** | **x SEK** |
