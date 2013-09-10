@@ -89,7 +89,7 @@ Few improvements have already been suggested by the inital developers:
 
 But I am sure that we could come up with far more requirements considering that we have Tobi as domain expert and a bunch of reference apps.
 
-## ScumIt ([on GitHub](https://github.com/ti-dev/Scrum-it))
+## ScrumIt ([on GitHub](https://github.com/ti-dev/Scrum-it))
 
 ScrumIt is a digitial Scrum board that supports Scrum teams in managing projects, team members, sprints, userstories, tasks and the burn down chart.
 It is said to use modern and multi-touch (whatever that means) technologies such as HTML5 / CSS3, jQuery and jQuery Mobile and the backend system with Java EE, Tomcat, MySQL, Hibernate, Envers. I (Dani) have only experience with Java EE and Hibernate.
@@ -103,3 +103,20 @@ It is said to use modern and multi-touch (whatever that means) technologies such
 **Possible additions and changes**
 
 This is the bad news. There are no open issues on GitHub. That means that we have to use our brains to come up with plenty requirements.
+
+## BlueJ ([on GitHub](https://github.com/neomatrix369/BlueJ))
+
+BlueJ is a simplified IDE for Java programming and developed mainly for teaching purposes. It has bit different design from the regular development
+environments - the main screen shows graphically the class structure similarly to an UML diagram.
+
+**Pros**
+
+* since it is a development environment we should all be familiar with the domain + it's java
+* it is developed for educational purpose so it might be bit more intuitive and easier to work with
+
+**Cons**
+
+* the domain itself might not be that much interesting
+
+**Possible additions and changes**
+It is said to have a good and flexible extension system - we would only need ideas for plug-ins.
