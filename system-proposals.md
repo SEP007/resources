@@ -29,6 +29,9 @@ The group has one member knowing the libraries involved and the whole language s
    * Extract and decouple views from controllers and make it an own component with hierarchies and lazy re-rendering
 * Transforming it into a [single page web application](https://en.wikipedia.org/wiki/Single-page_application)
    * Extending LMVC to integrate easier with [Backbone](http://backbonejs.org/) or any other framework
+* Allow for dynamic binding of other template engines like twig, handlebars, Smarty
+* Build a dynamic REST controller to use in [Backbone](http://backbonejs.org/#Sync) e.g. /sync/<ModelClass> which runs basic CRUD on an existing model-class without programming
+   * Including a clean validation using LMVC forms module - which should therefore also be renamed to validation module
 
 ## Diaspora [on GitHub](https://github.com/diaspora/diaspora)
 
