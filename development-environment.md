@@ -40,7 +40,7 @@ Anyhow, this is a list of suggestions in order of my own preference.
 
 ## Live Server
 
-We have a live, publically available server running at (sep007.tdeekens.name)[http://sep007.tdeekens.name].
+We have a live, publically available server running at [sep007.tdeekens.name](http://sep007.tdeekens.name).
 
 It's document root has a clone of our *lmvc-patat* GitHub repository. Thereby allowing us to pull directly from our repository. It manages php-dependencies by composer and can update them at any time.
 Lastly, the apache is configured to use php 5.5 and any database migration has to be performed manually at this point using the phpmyadmin backend.
