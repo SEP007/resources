@@ -1,4 +1,4 @@
-# Fines for members for not beeing cool
+# Fines for members for not being cool
 
 ## Fines
 
