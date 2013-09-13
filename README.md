@@ -8,6 +8,8 @@ Clone and share any resources through this project. Such as notes, images, icons
 
 * [System Proposals](system-proposals.md)
 * [Code of Conduct](code-of-conduct.md)
+* [Agendas & Summaries](/agendas-summaries)
+   * [2nd Customer Meeting](/agendas-summaries/2nd-customer-meeting.md)
 * [Member Fines](member-fines.md)
 * [PHP References](php-references.md)
 * [Development Environment](development-environment.md)
