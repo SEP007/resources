@@ -22,7 +22,5 @@ LMVC Patat is based upon [LMVC](https://github.com/SEP007/lmvc) and more specifi
    - Meaning change database-name and credentials
 2. Now copy the contents of the [.-sample-htaccess-file](https://github.com/SEP007/lmvc-patat/blob/master/.sample-htaccess) into a new `.htaccess`
 3. Now copy the contents of the [/app/javascripts/sample-config.js](https://github.com/SEP007/lmvc-patat/blob/master/app/javascripts/sample-config.js) into a new *config.js* and set the app's root to whereever the app resides on your own *localhost* too.
-4. Then run `php composer.phar install` on your terminal and the dependency fetching will begin
-   - Set the app's root to whereever the app resides on your own *localhost*
 
 Launch the app in the browser e.g. [localhost/lmvc-patat](http://localhost/lmvc-patat).
