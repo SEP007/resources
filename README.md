@@ -7,7 +7,7 @@ Clone and share any resources through this project. Such as notes, images, icons
 ## List of documents
 
 * [System Proposals](system-proposals.md)
-* [Group Rules](group-rules.md)
+* [Code of Conduct](code-of-conduct.md)
 * [Member Fines](member-fines.md)
 * [PHP References](php-references.md)
 * [Development Environment](development-environment.md)
