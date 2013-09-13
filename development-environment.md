@@ -38,6 +38,17 @@ Anyhow, this is a list of suggestions in order of my own preference.
 * [Sublime Text](http://www.sublimetext.com/3) (just an text editor)
 * [Eclipse with PDT](http://www.eclipse.org/pdt/downloads/)
 
+## Git Clients
+
+IDEs might integrate with git and GitHub but you can also choose an external tool for interaction with the version control system.
+
+* [http://www.sourcetreeapp.com/](SourceTree) Mac & Windows
+* [http://www.git-tower.com/](Tower) Mac only
+* [http://gitboxapp.com/](Gitbox) Mac only
+* [http://mac.github.com/](GitHub app) [Mac](http://mac.github.com/) & [http://win.github.com/](Windows)
+* [http://git-cola.github.io/](Git-cola) Linux
+* [https://wiki.gnome.org/Gitg](Gitg) Linux
+
 ## Live Server
 
 We have a live, publically available server running at [sep007.tdeekens.name](http://sep007.tdeekens.name).
