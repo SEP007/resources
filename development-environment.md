@@ -14,11 +14,11 @@ Commits on the other hand should contain a logical, closed unit of code. A commi
 You can also close issues on GitHub right from a commit message by having a commit message like: `Fixes #20 where not all data was loaded.`. A commit message itself should not have more than 50 characters as it will be cropped. Longer commit messenges can be made as a list (from terminal or an app):
 
 ```bash
-Adds sorting functionality to model collection.
+Adds sorting functionality to model collections.
 
-- Adds sort callback to model classes.
+- Adds basic sort callback to model classes which can be overwritten
 - Implements sorting algorithm as bubble sort (I hate myself)
-- Calling sort-fn on collection will sort all models in it
+- Calling sort-fn on collection will sort all models in it using callback
 - Adds isSorted indicator if collection is dirty/unsorted or has been sorted
 ```
 
