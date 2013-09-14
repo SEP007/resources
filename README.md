@@ -12,6 +12,6 @@ Clone and share any resources through this project. Such as notes, images, icons
    * [1st Customer Meeting](/agendas-summaries/1st-customer-meeting.md)
    * [2nd Customer Meeting](/agendas-summaries/2nd-customer-meeting.md)
 * [Member Fines](member-fines.md)
-* [PHP References](php-references.md)
+* [List of References](development-references.md)
 * [Development Environment](development-environment.md)
 * [Installation Instructions](installing-patat.md)
