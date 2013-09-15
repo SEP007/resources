@@ -7,6 +7,7 @@
 * [OOP in PHP](http://php.net/manual/en/oop5.intro.php)
 * [PHP advices for Novices](https://coderwall.com/p/0ictea?&p=1&q=)
 * [Dependencies with Composer](http://net.tutsplus.com/tutorials/php/easy-package-management-with-composer/)
+* [Composer's Vendor Directory](https://igor.io/2013/09/04/composer-vendor-directory.html) (a bit advanced)
 * [Coding Standards](https://github.com/php-fig/fig-standards/tree/master/accepted) (especially psr-1 and psr-2)
 
 ## References for Git
