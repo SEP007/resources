@@ -43,3 +43,25 @@ echo "Kostas is an" . $a;
 ```
 
 ...in any case `Adonis!` does not be in double quotes as it is never meant to carry a variable.
+
+One thing: when using arrays in a string automatic string concatinating makes code some what unreadble. Take a look:
+
+```php
+# Looks okay
+$a = ["Adonis!", "man!"];
+
+echo "Kostas is an $[0]"; # outputs ...Adonis!
+
+# Lets use an associative array
+$a = [
+   "key1" => "Adonis!",
+   "key2" => "man!"
+];
+
+echo "Kostas is an $[key1]"; # outputs ...Adonis!
+echo "Kostas is an $a['key1']"; # is a parse error!
+
+echo 'Kostas is an '. $a['key1']; # outputs ...Adonis!
+```
+
+…to me the last option looks best as its easy to see what's going on but that's up to decide to everybody or the team's coding standards.
