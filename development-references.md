@@ -12,4 +12,16 @@
 
 ## References for Git
 
+### Articles & Reads
+
+* [Documentation](http://git-scm.com/documentation)
+* [Learning to Branch](http://pcottle.github.io/learnGitBranching/)
+* [A Branching Model](http://nvie.com/posts/a-successful-git-branching-model/)
 * [Git Tips](http://mislav.uniqpath.com/2010/07/git-tips/) (advanced)
+
+### Talks & Videos
+
+* [Introduction to Git](http://vimeo.com/53285988) (Tim Berglund)
+* [Advanced Git](http://vimeo.com/49444883) (Tim Berglund)
+* [How GitHub Works](http://vimeo.com/43684882) (Zach Holman)
+* [Git & GitHub Secrets](https://speakerdeck.com/holman/git-and-github-secrets) (Zach Holman)
