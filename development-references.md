@@ -24,4 +24,4 @@
 * [Introduction to Git](http://vimeo.com/53285988) (Tim Berglund)
 * [Advanced Git](http://vimeo.com/49444883) (Tim Berglund)
 * [How GitHub Works](http://vimeo.com/43684882) (Zach Holman)
-* [Git & GitHub Secrets](https://speakerdeck.com/holman/git-and-github-secrets) (Zach Holman)
+* [Git & GitHub Secrets Slides](https://speakerdeck.com/holman/git-and-github-secrets) - [Video](http://zachholman.com/talk/git-github-secrets/)] (Zach Holman)
