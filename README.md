@@ -15,3 +15,4 @@ Clone and share any resources through this project. Such as notes, images, icons
 * [List of References](development-references.md)
 * [Development Environment](development-environment.md)
 * [Installation Instructions](installing-patat.md)
+* [PHP Gotchas](php-gotchas.md)
