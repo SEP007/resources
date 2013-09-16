@@ -11,6 +11,7 @@ Clone and share any resources through this project. Such as notes, images, icons
 * [Agendas & Summaries](/agendas-summaries)
    * [1st Customer Meeting](/agendas-summaries/1st-customer-meeting.md)
    * [2nd Customer Meeting](/agendas-summaries/2nd-customer-meeting.md)
+   * [1st Systemproposal Meeting](/agendas-summaries/1st-systemproposal-meeting.md)
 * [Member Fines](member-fines.md)
 * [List of References](development-references.md)
 * [Development Environment](development-environment.md)
