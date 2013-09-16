@@ -17,4 +17,4 @@ Clone and share any resources through this project. Such as notes, images, icons
 * [Development Environment](development-environment.md)
 * [Installation Instructions](installing-patat.md)
 * [PHP Gotchas](php-gotchas.md)
-* [PHP Examples](https://github.com/sep007/php-examples) ([running live here](http://todo.tdeekens.name))
+* [PHP Examples](https://github.com/sep007/php-examples) ([lmvc-todo running live here](http://todo.tdeekens.name))
