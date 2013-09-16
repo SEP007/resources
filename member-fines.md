@@ -3,6 +3,8 @@
 ## Fines
 
 * [Being late](https://github.com/SEP007/resources/blob/master/group-rules.md): 1 SEK per minute
+* Not showing up without any notice: fika including a drink of choice (no free coffee) and a kanelbullar
+   * In the case of not paying the debt within one week, you'll have to pay L's for everybody
 
 ## Being late
 
