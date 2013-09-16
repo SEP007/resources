@@ -2,7 +2,7 @@
 
 ## Summary
 
-* [Member](https://github.com/SEP007/resources/commit/04430b64b60958be72cbc663cf47fbc987200045#member-fines.md) fines updated for not showing up
+* [Member fines](https://github.com/SEP007/resources/commit/04430b64b60958be72cbc663cf47fbc987200045#member-fines.md) updated for not showing up
    * New group member did not show up without any notice!
 * @tdeekens gave introduction quick introduction into lmvc
    * Check out the updates [readme](https://github.com/SEP007/lmvc/blob/master/README.md)
