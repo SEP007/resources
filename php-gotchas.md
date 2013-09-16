@@ -58,7 +58,7 @@ $a = [
    "key2" => "man!"
 ];
 
-echo "Kostas is an $[key1]"; # outputs ...Adonis!
+echo "Kostas is an $a[key1]"; # outputs ...Adonis!
 echo "Kostas is an $a['key1']"; # is a parse error!
 
 echo 'Kostas is an '. $a['key1']; # outputs ...Adonis!
