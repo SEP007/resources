@@ -4,6 +4,8 @@
 
 * Being late costs 1 SEK per minute starting at 5 minutes
    * Having a fair argument, e.g. overlapping classes liberates from payment
+* Not showing up without any notice: fika including a drink of choice (no free coffee) and a kanelbullar
+   * In the case of not paying the debt within one week, you'll have to pay L's for everybody
 
 ## Communication
 
