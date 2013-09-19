@@ -5,7 +5,7 @@ LMVC Patat is based upon [LMVC](https://github.com/SEP007/lmvc) and more specifi
 ## Download app and dependencies
 
 1. To install your own version just clone the repo into your htdocs
-   - `git clone https://github.com/scandio/lmvc-patat.git`
+   - `git clone https://github.com/sep007/lmvc-patat.git`
 2. Then
    - `cd lmvc-patat && sh bootstrap.sh`
 2. This will load all *composer* dependencies and setup caching-directories for the [Asset Pipeline](https://github.com/SEP007/lmvc-modules/tree/master/lib/Scandio/lmvc/modules/assetpipeline).
