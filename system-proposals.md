@@ -35,6 +35,8 @@ The group has one member knowing the libraries involved and the whole language s
 * Test modules and components (TDD, BDD frameworks and integrate it with a CI service such as [TravisCI](https://travis-ci.org/))
 * I18n component/module for views and application in general
    * Make language a url paramter suffix/prefix (...com/en/controller/…params)
+* E-Mail module for e.g. verfication during signup process
+* Limit restaurants to only be able to have three offerings
 
 ## Diaspora [on GitHub](https://github.com/diaspora/diaspora)
 
