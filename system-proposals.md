@@ -33,9 +33,9 @@ The group has one member knowing the libraries involved and the whole language s
 * Build a dynamic REST controller to use in [Backbone](http://backbonejs.org/#Sync) e.g. /sync/<ModelClass> which runs basic CRUD on an existing model-class without programming
    * Including a clean validation using LMVC forms module - which should therefore also be renamed to validation module
 * Test modules and components (TDD, BDD frameworks and integrate it with a CI service such as [TravisCI](https://travis-ci.org/))
-* I18n component/module for views and application in general
-   * Make language a url paramter suffix/prefix (...com/en/controller/…params)
-* E-Mail module for e.g. verfication during signup process
+* <del>I18n component/module for views and application in general</del>
+   * <del>Make language a url paramter suffix/prefix (...com/en/controller/…params)</del>
+* <del>E-Mail module for e.g. verfication during signup process</del>
 * Limit restaurants to only be able to have three offerings
 
 ## Diaspora [on GitHub](https://github.com/diaspora/diaspora)
