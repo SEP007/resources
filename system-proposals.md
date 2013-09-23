@@ -20,13 +20,13 @@ The group has one member knowing the libraries involved and the whole language s
 
 * Migrating the database to [Postgres](http://www.postgresql.org/) or [MongoDB](http://www.mongodb.org/) for easier geo-spartial queries
    * This might include extending the ORM-Layer ([Troba](https://github.com/scandio/troba))
-* GUI enhancements and migration to [Twitter Bootstrap 3](http://getbootstrap.com/)
+* <del>GUI enhancements and migration to [Twitter Bootstrap 3](http://getbootstrap.com/)</del>
 * Rewrite and extensions to underlying frameworks
-   * Find a better solution for snippet support (resuable UI-components for LMVC's views)
+   * <del>Find a better solution for snippet support (resuable UI-components for LMVC's views)</del>
    * Optimising the [asset pipeline](https://github.com/scandio/lmvc-modules/tree/master/lib/Scandio/lmvc/modules/assetpipeline)
 * Rewrite view handling in [LVMC](https://github.com/scandio/lmvc)
-   * Allow nested views, not just master-to-subtemplate
-   * Extract and decouple views from controllers and make it an own component with hierarchies and lazy re-rendering
+   * <del>Allow nested views, not just master-to-subtemplate</del>
+   * <del>Extract and decouple views from controllers and make it an own component with hierarchies and lazy re-rendering</del>
 * Transforming it into a [single page web application](https://en.wikipedia.org/wiki/Single-page_application)
    * Extending LMVC to integrate easier with [Backbone](http://backbonejs.org/) or any other framework
 * Allow for dynamic binding of other template engines like twig, handlebars, Smarty
