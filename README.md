@@ -18,6 +18,7 @@ Clone and share any resources through this project. Such as notes, images, icons
 * [List of References](development-references.md)
 * [Development Environment](development-environment.md)
 * [Installation Instructions](installing-patat.md)
+* [Development Process](development-process.md)
 * [PHP Gotchas](php-gotchas.md)
 * [PHP Examples](https://github.com/sep007/php-examples)
    - [Simple age calculator](https://github.com/SEP007/php-examples/tree/master/age)
