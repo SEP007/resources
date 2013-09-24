@@ -37,6 +37,11 @@ The group has one member knowing the libraries involved and the whole language s
    * <del>Make language a url paramter suffix/prefix (...com/en/controller/…params)</del>
 * <del>E-Mail module for e.g. verfication during signup process</del>
 * Limit restaurants to only be able to have three offerings
+* Logging module allowing multiple level logging and maybe DevTools integration
+* Fix AssetPipeline to have original file-handle at process-time, not cache file-handle
+* Add some data-scraping from existing sites in a configurable manner
+* Add lmvc support for named url parameters e.g /users/id:3 vs. /users/id/3
+* Add scaffolding from Shell for mvc-skeletons
 
 ## Diaspora [on GitHub](https://github.com/diaspora/diaspora)
 
