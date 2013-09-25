@@ -38,6 +38,8 @@ The group has one member knowing the libraries involved and the whole language s
 * <del>E-Mail module for e.g. verfication during signup process</del>
 * Limit restaurants to only be able to have three offerings
 * Logging module allowing multiple level logging and maybe DevTools integration
+   * There is a [PSR-3 standard](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-3-logger-interface.md) describing a possible implementation
+   * Logging to DevTools could be a level/flag and integrate with e.g. [ChromeLogger](http://craig.is/writing/chrome-logger)
 * Fix AssetPipeline to have original file-handle at process-time, not cache file-handle
 * Add some data-scraping from existing sites in a configurable manner
 * Add lmvc support for named url parameters e.g /users/id:3 vs. /users/id/3
