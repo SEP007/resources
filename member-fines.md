@@ -10,10 +10,17 @@
 
 Just listing the minutes, summing them up and calculating the final fee.
 
-| Dani      | Anya      | Kostas    | John      |  Tobi     |
-| ----------|-----------| ----------|-----------|-----------|
-|           |           |           |           |           |
-|           |           |           |           |           |
-|           |           |           |           |           |
-| **x min** | **x min** | **x min** | **x min** | **x min** |
-| **x SEK** | **x SEK** | **x SEK** | **x SEK** | **x SEK** |
+| Dani   | Anya   | Kostas | John   | Tobi   | Khan   |
+| -------|--------| -------|--------|--------|--------|
+|        |        |        |        |        |        |
+|        |        |        |        |        |        |
+|        |        |        |        |        |        |
+|**SEK** |**SEK** | **SEK**| **SEK**| **SEK**| **SEK**|
+
+## Not friggn showing up
+
+Just not showing up ain't cool - you gotta pay real money here!
+
+| Dani   | Anya   | Kostas | John   | Tobi   | Khan   |
+| -------|--------| -------|--------|--------|--------|
+| 0x     | 0x     | 0x     | 0x     | 0x     | 1x     |
