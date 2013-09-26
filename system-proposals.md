@@ -10,7 +10,7 @@ From a technical point to view, LMVC Patat is build using the micro [LMVC-Framew
 
 **Cons in picking this**
 
-Pitfalls are that [cloc](http://cloc.sourceforge.net/) told me that the project over all has *24720 sloc* of which probably *20k* is library source code. Anyhow, taking the underlying module-system, ORM-layer and the library itself gives us a decent amount to work with.
+Pitfalls are that [cloc](http://cloc.sourceforge.net/) told me that the project over all has *24720 sloc- of which probably *20k- is library source code. Anyhow, taking the underlying module-system, ORM-layer and the library itself gives us a decent amount to work with.
 
 **Pros in picking this**
 
@@ -18,32 +18,32 @@ The group has one member knowing the libraries involved and the whole language s
 
 **Addition and changes to the system might inlcude**
 
-* Migrating the database to [Postgres](http://www.postgresql.org/) or [MongoDB](http://www.mongodb.org/) for easier geo-spartial queries
-   * This might include extending the ORM-Layer ([Troba](https://github.com/scandio/troba))
-* <del>GUI enhancements and migration to [Twitter Bootstrap 3](http://getbootstrap.com/)</del>
-* Rewrite and extensions to underlying frameworks
-   * <del>Find a better solution for snippet support (resuable UI-components for LMVC's views)</del>
-   * Optimising the [asset pipeline](https://github.com/scandio/lmvc-modules/tree/master/lib/Scandio/lmvc/modules/assetpipeline)
-* Rewrite view handling in [LVMC](https://github.com/scandio/lmvc)
-   * <del>Allow nested views, not just master-to-subtemplate</del>
-   * <del>Extract and decouple views from controllers and make it an own component with hierarchies and lazy re-rendering</del>
-* Transforming it into a [single page web application](https://en.wikipedia.org/wiki/Single-page_application)
-   * Extending LMVC to integrate easier with [Backbone](http://backbonejs.org/) or any other framework
-* Allow for dynamic binding of other template engines like twig, handlebars, Smarty
-* Build a dynamic REST controller to use in [Backbone](http://backbonejs.org/#Sync) e.g. /sync/<ModelClass> which runs basic CRUD on an existing model-class without programming
-   * Including a clean validation using LMVC forms module - which should therefore also be renamed to validation module
-* Test modules and components (TDD, BDD frameworks and integrate it with a CI service such as [TravisCI](https://travis-ci.org/))
-* <del>I18n component/module for views and application in general</del>
-   * <del>Make language a url paramter suffix/prefix (...com/en/controller/…params)</del>
-* <del>E-Mail module for e.g. verfication during signup process</del>
-* Limit restaurants to only be able to have three offerings
-* Logging module allowing multiple level logging and maybe DevTools integration
-   * There is a [PSR-3 standard](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-3-logger-interface.md) describing a possible implementation
-   * Logging to DevTools could be a level/flag and integrate with e.g. [ChromeLogger](http://craig.is/writing/chrome-logger)
-* Fix AssetPipeline to have original file-handle at process-time, not cache file-handle
-* Add some data-scraping from existing sites in a configurable manner
-* Add lmvc support for named url parameters e.g /users/id:3 vs. /users/id/3
-* Add scaffolding from Shell for mvc-skeletons
+- [ ] (posponed) Migrating the database to [Postgres](http://www.postgresql.org/) or [MongoDB](http://www.mongodb.org/) for easier geo-spartial queries
+   - This might include extending the ORM-Layer ([Troba](https://github.com/scandio/troba))
+- [x] GUI enhancements and migration to [Twitter Bootstrap 3](http://getbootstrap.com/)
+- Rewrite and extensions to underlying frameworks
+   - [x] Find a better solution for snippet support (resuable UI-components for LMVC's views)
+   - [ ] (posponed) Optimising the [asset pipeline](https://github.com/scandio/lmvc-modules/tree/master/lib/Scandio/lmvc/modules/assetpipeline)
+- [x] Rewrite view handling in [LVMC](https://github.com/scandio/lmvc)
+   - [x] Allow nested views, not just master-to-subtemplate
+   - [x] Extract and decouple views from controllers and make it an
+   - [x] Allow for dynamic binding of other template engines like twig, handlebars, Smarty
+own component with hierarchies and lazy re-rendering
+- [ ] (posponed) Transforming it into a [single page web application](https://en.wikipedia.org/wiki/Single-page_application)
+- [x] Build a dynamic REST controller to use in [Backbone](http://backbonejs.org/#Sync) e.g. /sync/<ModelClass> which runs basic CRUD on an existing model-class without programming
+   - [x] Including a clean validation using LMVC forms module - which should therefore also be renamed to validation module
+- [ ] (ponponed) Test modules and components (TDD, BDD frameworks and integrate it with a CI service such as [TravisCI](https://travis-ci.org/))
+- [x] I18n component/module for views and application in general
+   - [x] Make language a url paramter suffix/prefix (...com/en/controller/…params)
+- [x] E-Mail module for e.g. verfication during signup process
+- [x] Limit restaurants to only be able to have three offerings
+- [x] Logging module allowing multiple level logging and maybe DevTools integration
+   - [x] There is a [PSR-3 standard](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-3-logger-interface.md) describing a possible implementation
+   - [x] Logging to DevTools could be a level/flag and integrate with e.g. [ChromeLogger](http://craig.is/writing/chrome-logger)
+- <del>Fix AssetPipeline to have original file-handle at process-time, not cache file-handle</del>
+- [ ] (posponed) Add some data-scraping from existing sites in a configurable manner
+- [ ] (needs thought) Add lmvc support for named url parameters e.g /users/id:3 vs. /users/id/3
+- [ ] (posponed) Add scaffolding from Shell for mvc-skeletons
 
 ## Diaspora [on GitHub](https://github.com/diaspora/diaspora)
 
@@ -91,9 +91,9 @@ Users enter their choice of location and radius within to display tourist attrac
 
 **Points that speak for this system proposal**
 
-* we could further improve our skills in Android app development,
-* benefit from Tobi's domain knowledge and use reference apps as help to come up with requirements
-* and get to know the Google Places API.
+- we could further improve our skills in Android app development,
+- benefit from Tobi's domain knowledge and use reference apps as help to come up with requirements
+- and get to know the Google Places API.
 
 **Possible additions and changes**
 
@@ -111,9 +111,9 @@ It is said to use modern and multi-touch (whatever that means) technologies such
 
 **Points that speak for this system proposal**
 
-* we could benefit from the knowledge we have been building since the Agile Software Development course
-* use the system for our own organziation or the organization of further projects
-* and get to know a lot of technologies at once
+- we could benefit from the knowledge we have been building since the Agile Software Development course
+- use the system for our own organziation or the organization of further projects
+- and get to know a lot of technologies at once
 
 **Possible additions and changes**
 
@@ -126,12 +126,12 @@ environments - the main screen shows graphically the class structure similarly t
 
 **Pros**
 
-* since it is a development environment we should all be familiar with the domain + it's java
-* it is developed for educational purpose so it might be bit more intuitive and easier to work with
+- since it is a development environment we should all be familiar with the domain + it's java
+- it is developed for educational purpose so it might be bit more intuitive and easier to work with
 
 **Cons**
 
-* the domain itself might not be that much interesting
+- the domain itself might not be that much interesting
 
 **Possible additions and changes**
 It is said to have a good and flexible extension system - we would only need ideas for plug-ins.
