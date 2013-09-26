@@ -16,6 +16,7 @@
 
 * [Documentation](http://git-scm.com/documentation) (more for later lookups)
 * [Git Internals](https://github.com/pluralsight/git-internals-pdf/raw/master/drafts/peepcode-git.pdf) (covers a whole bunch)
+* [Git Concepts Simplified](http://gitolite.com/gcs/index.html) (I wish I had that back then...)
 * [Learning to Branch](http://pcottle.github.io/learnGitBranching/) (after you know why)
 * [A Branching Model](http://nvie.com/posts/a-successful-git-branching-model/) (now you learn a model)
 * [Git Tips](http://mislav.uniqpath.com/2010/07/git-tips/) (advanced)
