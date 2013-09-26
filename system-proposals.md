@@ -18,18 +18,18 @@ The group has one member knowing the libraries involved and the whole language s
 
 **Addition and changes to the system might inlcude**
 
-- [ ] (posponed) Migrating the database to [Postgres](http://www.postgresql.org/) or [MongoDB](http://www.mongodb.org/) for easier geo-spartial queries
+- [ ] [posponed] Migrating the database to [Postgres](http://www.postgresql.org/) or [MongoDB](http://www.mongodb.org/) for easier geo-spartial queries
    - This might include extending the ORM-Layer ([Troba](https://github.com/scandio/troba))
 - [x] GUI enhancements and migration to [Twitter Bootstrap 3](http://getbootstrap.com/)
 - Rewrite and extensions to underlying frameworks
    - [x] Find a better solution for snippet support (resuable UI-components for LMVC's views)
-   - [ ] (posponed) Optimising the [asset pipeline](https://github.com/scandio/lmvc-modules/tree/master/lib/Scandio/lmvc/modules/assetpipeline)
+   - [ ] [posponed] Optimising the [asset pipeline](https://github.com/scandio/lmvc-modules/tree/master/lib/Scandio/lmvc/modules/assetpipeline)
 - [x] Rewrite view handling in [LVMC](https://github.com/scandio/lmvc)
    - [x] Allow nested views, not just master-to-subtemplate
    - [x] Extract and decouple views from controllers and make it an
    - [x] Allow for dynamic binding of other template engines like twig, handlebars, Smarty
 own component with hierarchies and lazy re-rendering
-- [ ] (posponed) Transforming it into a [single page web application](https://en.wikipedia.org/wiki/Single-page_application)
+- [ ] [posponed] Transforming it into a [single page web application](https://en.wikipedia.org/wiki/Single-page_application)
 - [x] Build a dynamic REST controller to use in [Backbone](http://backbonejs.org/#Sync) e.g. /sync/<ModelClass> which runs basic CRUD on an existing model-class without programming
    - [x] Including a clean validation using LMVC forms module - which should therefore also be renamed to validation module
 - [ ] (ponponed) Test modules and components (TDD, BDD frameworks and integrate it with a CI service such as [TravisCI](https://travis-ci.org/))
@@ -41,9 +41,9 @@ own component with hierarchies and lazy re-rendering
    - [x] There is a [PSR-3 standard](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-3-logger-interface.md) describing a possible implementation
    - [x] Logging to DevTools could be a level/flag and integrate with e.g. [ChromeLogger](http://craig.is/writing/chrome-logger)
 - <del>Fix AssetPipeline to have original file-handle at process-time, not cache file-handle</del>
-- [ ] (posponed) Add some data-scraping from existing sites in a configurable manner
+- [ ] [posponed] Add some data-scraping from existing sites in a configurable manner
 - [ ] (needs thought) Add lmvc support for named url parameters e.g /users/id:3 vs. /users/id/3
-- [ ] (posponed) Add scaffolding from Shell for mvc-skeletons
+- [ ] [posponed] Add scaffolding from Shell for mvc-skeletons
 
 ## Diaspora [on GitHub](https://github.com/diaspora/diaspora)
 
