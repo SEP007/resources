@@ -8,7 +8,7 @@
  
 ###Individual part
 * Everyone has to choose 1-2 attributes to measure during the project (effort load should be equal for everyone hence 1-2)
-** No two people should have the same measurements (duh)
+ * No two people should have the same measurements (duh)
 * For every chosen attribute we should explain: what will you measure, how will you measure it and how often (e.g. once in every 2 weeks)
 * If suggested way of measurements seems unreasonable for the projcect - we can show another way and explain it. 
 
