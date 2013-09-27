@@ -15,6 +15,7 @@ Clone and share any resources through this project. Such as notes, images, icons
    * [2nd Systemproposal Meeting](/agendas-summaries/2nd-systemproposal-meeting.md)
    * [1st Requirements Meeting](/agendas-summaries/1st-requirements-meeting.md)
    * [2nd Requirements Meeting](/agendas-summaries/2nd-requirements-meeting.md)
+   * [Meeting with Ana @09/27](/agendas-summaries/meeting-with-ana-27-september.md)
 * [Member Fines](member-fines.md)
 * [List of References](development-references.md)
 * [Development Environment](development-environment.md)
