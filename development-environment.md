@@ -44,6 +44,7 @@ IDEs might integrate with git and GitHub but you can also choose an external too
 * [http://mac.github.com/](GitHub app) [Mac](http://mac.github.com/) & [http://win.github.com/](Windows)
 * [http://git-cola.github.io/](Git-cola) Linux
 * [https://wiki.gnome.org/Gitg](Gitg) Linux
+* [http://www.syntevo.com/smartgithg/](SmartGitHq)
 
 ## Live Server
 
