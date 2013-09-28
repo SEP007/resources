@@ -23,4 +23,4 @@ Just not showing up ain't cool - you gotta pay real money here!
 
 | Dani   | Anya   | Kostas | John   | Tobi   | Khan   |
 | -------|--------| -------|--------|--------|--------|
-| 0x     | 0x     | 0x     | 0x     | 0x     | 1x     |
+| 0x     | 0x     | 0x     | 0x     | 0x     | 2x     |
