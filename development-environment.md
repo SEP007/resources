@@ -38,13 +38,13 @@ Anyhow, this is a list of suggestions in order of my own preference.
 
 IDEs might integrate with git and GitHub but you can also choose an external tool for interaction with the version control system.
 
-* [http://www.sourcetreeapp.com/](SourceTree) Mac & Windows
-* [http://www.git-tower.com/](Tower) Mac only
-* [http://gitboxapp.com/](Gitbox) Mac only
-* [http://mac.github.com/](GitHub app) [Mac](http://mac.github.com/) & [http://win.github.com/](Windows)
-* [http://git-cola.github.io/](Git-cola) Linux
-* [https://wiki.gnome.org/Gitg](Gitg) Linux
-* [http://www.syntevo.com/smartgithg/](SmartGitHq)
+* [SourceTree](http://www.sourcetreeapp.com/) Mac & Windows
+* [Tower](http://www.git-tower.com/) Mac only
+* [Gitbox](http://gitboxapp.com/) Mac only
+* GitHub [Mac](http://mac.github.com/) & [Windows](http://win.github.com/)
+* [Git-cola](http://git-cola.github.io) Linux
+* [Gitg](https://wiki.gnome.org/Gitg) Linux
+* [SmartGitHq](http://www.syntevo.com/smartgithg/)
 
 ## Live Server
 
