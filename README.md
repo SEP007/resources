@@ -16,6 +16,7 @@ Clone and share any resources through this project. Such as notes, images, icons
    * [1st Requirements Meeting](/agendas-summaries/1st-requirements-meeting.md)
    * [2nd Requirements Meeting](/agendas-summaries/2nd-requirements-meeting.md)
    * [Meeting with Ana @09/27](/agendas-summaries/meeting-with-Ana-27-september.md)
+   * [1st Quality Model Meeting](/agendas-summaries/1st-meeting-quality-model.md)
 * [Member Fines](member-fines.md)
 * [List of References](development-references.md)
 * [Development Environment](development-environment.md)
