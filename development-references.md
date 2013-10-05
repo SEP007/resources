@@ -5,6 +5,7 @@
 * [PHP the right way](http://www.phptherightway.com/) (great read)
 * [Codeacademy](http://www.codecademy.com/tracks/php)
 * [OOP in PHP](http://php.net/manual/en/oop5.intro.php)
+* [Functional Programming in PHP](http://net.tutsplus.com/tutorials/php/functional-programming-in-php/)
 * [PHP advices for Novices](https://coderwall.com/p/0ictea?&p=1&q=)
 * [Dependencies with Composer](http://net.tutsplus.com/tutorials/php/easy-package-management-with-composer/)
 * [Composer's Vendor Directory](https://igor.io/2013/09/04/composer-vendor-directory.html) (a bit advanced)
