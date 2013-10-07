@@ -22,7 +22,12 @@ DEADLINE: 08-10-13 15:00
 * Review the others' metrics
 DEADLINE: 08-10-13 20:00
 
-The final document will be submitted by Dani, after 20:00.
+The final document will be submitted by Dani, after 20:00
+
+## Questions for the meeting with Ana
+
+* What are poster sessions?
+* Will we get feedback on our requirements and quality model proposal soon?
 
 
  
