@@ -28,3 +28,4 @@ Clone and share any resources through this project. Such as notes, images, icons
    - [Simple age calculator](https://github.com/SEP007/php-examples/tree/master/age)
    - [Todo App without any framework](https://github.com/SEP007/php-examples/tree/master/todo)
    - [Todo App with lmvc](https://github.com/SEP007/php-examples/tree/master/lmvc-todo) ([running live here](http://todo.tdeekens.name))
+   - [My @tdeekens's blog](https://github.com/tdeekens/tdeekens.name) ([running live here](http://tdeekens.name))
