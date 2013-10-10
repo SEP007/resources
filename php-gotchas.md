@@ -34,11 +34,11 @@ echo 'Kostas is an $a';
 
 ```php
 $a = "Adonis!";
-echo 'Kostas is an' . $a;
+echo 'Kostas is an ' . $a;
 
 # or
 
-echo "Kostas is an" . $a;
+echo "Kostas is an " . $a;
 
 ```
 
@@ -50,7 +50,7 @@ One thing: when using arrays in a string automatic string concatinating makes co
 # Looks okay
 $a = ["Adonis!", "man!"];
 
-echo "Kostas is an $[0]"; # outputs ...Adonis!
+echo "Kostas is an $a[0]"; # outputs ...Adonis!
 
 # Lets use an associative array
 $a = [
