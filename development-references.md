@@ -11,6 +11,10 @@
 * [Composer's Vendor Directory](https://igor.io/2013/09/04/composer-vendor-directory.html) (a bit advanced)
 * [Coding Standards](https://github.com/php-fig/fig-standards/tree/master/accepted) (especially psr-1 and psr-2)
 
+## Frontend and Browsers
+
+* [Free course on Chrome DevTools (@codeschool)](https://www.codeschool.com/courses/discover-devtools)
+
 ## References for Git
 
 ### Articles & Reads
