@@ -11,6 +11,7 @@
 * [Composer's Vendor Directory](https://igor.io/2013/09/04/composer-vendor-directory.html) (a bit advanced)
 * [Coding Standards](https://github.com/php-fig/fig-standards/tree/master/accepted) (especially psr-1 and psr-2)
 * [The PSR Standards](http://net.tutsplus.com/tutorials/tools-and-tips/psr-duh/)
+* [Design Patterns](https://github.com/domnikl/DesignPatternsPHP)
 
 ## Frontend and Browsers
 
