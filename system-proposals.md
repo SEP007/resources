@@ -43,6 +43,9 @@ own component with hierarchies and lazy re-rendering
 - <del>Fix AssetPipeline to have original file-handle at process-time, not cache file-handle</del>
 - [ ] [posponed] Add some data-scraping from existing sites in a configurable manner
 - [ ] (needs thought) Add lmvc support for named url parameters e.g /users/id:3 vs. /users/id/3
+   - Url to controller-method mapping is rigorous not supporting "overloading"
+   - /users/search/mueller/mueller@gmx.de could map to controller's function Users::search(name, email, birthdate = null, country = null)
+   - /users/search/name:mueller/email:mueller@gmx.de would allow even more free mapping to e.g. Users::search(country = null, name = null, email = null, birthdate = null) as url-params are named to function-params
 - [ ] [posponed] Add scaffolding from Shell for mvc-skeletons
 - [ ] [undiscussed] Add local storage integration for lmvc-troba
    - Optimistic UI, transmission via ajax and local storage sync in background
