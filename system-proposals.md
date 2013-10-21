@@ -44,6 +44,8 @@ own component with hierarchies and lazy re-rendering
 - [ ] [posponed] Add some data-scraping from existing sites in a configurable manner
 - [ ] (needs thought) Add lmvc support for named url parameters e.g /users/id:3 vs. /users/id/3
 - [ ] [posponed] Add scaffolding from Shell for mvc-skeletons
+- [ ] [undiscussed] Add local storage integration for lmvc-troba
+   - Optimistic UI, transmission via ajax and local storage sync in background
 
 ## Diaspora [on GitHub](https://github.com/diaspora/diaspora)
 
