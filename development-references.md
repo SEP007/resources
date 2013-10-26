@@ -1,3 +1,4 @@
+
 # List of References for Development
 
 ## References for PHP
@@ -28,6 +29,7 @@
 * [A Simple Branching Model](https://gist.github.com/jbenet/ee6c9ac48068889b0912)
 * [A Complex Branching Model](http://nvie.com/posts/a-successful-git-branching-model/) (now you learn a model)
 * [Git Tips](http://mislav.uniqpath.com/2010/07/git-tips/) (advanced)
+* [GitHub Issues](https://github.com/blog/831-issues-2-0-the-next-generation)
 
 ### Talks & Videos
 
