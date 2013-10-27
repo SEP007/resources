@@ -14,7 +14,7 @@ OBS!!!
 
 ## Process
 
-- We are going to use Hub board.
+- We are going to use Huboard.
 - Two people are going to review the code of everybody and if they want to comment on it they are free to do it.
 - Don't mess up with other people's code!
 - If you don't have code coverage above 60% we need to discuss if it is mergeable.
