@@ -6,14 +6,14 @@
 
 **Do not be scared its fairly straight forward, I just use too many words.**
 
-## In short
+### In short
 
 - Locate `xdebug.so`
 - Add `php.ini` configuration
 - Add browser bookmarklets (PHPStorm)
 - Configure your IDE
 
-## Your PHP environment
+### Your PHP environment
 
 All the major IDEs support an PHPStorm integration mostly supplied though bookmarklets in the browser to start a session between IDE and browser.
 
@@ -31,7 +31,7 @@ xdebug.remote_host=127.0.0.1
 xdebug.remote_enable = 1
 ```
 
-## PHPStorm specfics
+### PHPStorm specfics
 
 Now, if you are using PHPStorm add a line with `xdebug.idekey = "PHPSTORM"`. Whatever and if you need for other IDEs is something you would have to look up yourself. The same applies for IDE further IDE configuration but that stuff is fairly easy to find and well covered on the interwebs. Before you fiddle with your IDE do not forget to restart your Apache/stack.
 
