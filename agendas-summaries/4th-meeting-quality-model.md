@@ -2,7 +2,7 @@
 
 ## Meetings
 
-- Meeting hours (Monday: 09:00 - 12:00, Wednesday: 08:15 - 12:00, Thursday: 13:00 - 16:00, Friday: 08:15 - 12:00)
+- Meeting hours (Monday: 09:00 - 12:00 (Johanneberg), Wednesday: 08:15 - 12:00 (we will decide every Monday the place), Thursday: 13:15 - 16:00, Friday: 08:15 - 12:00)
 - Weekly sprints starting on a Monday.
 - Friday is about testing (acceptance), retrospective, wraping things up.
 - Tuesday morning (08:15 - 12:00) is only an option for the first weeks and/or during a "big" sprint that we are facing.
