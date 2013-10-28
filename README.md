@@ -22,6 +22,7 @@ Clone and share any resources through this project. Such as notes, images, icons
 * [Member Fines](member-fines.md)
 * [List of References](development-references.md)
 * [Development Environment](development-environment.md)
+* [Development Setup](development-setup.md)
 * [Installation Instructions](installing-patat.md)
 * [Development Process](development-process.md)
 * [PHP Gotchas](php-gotchas.md)
