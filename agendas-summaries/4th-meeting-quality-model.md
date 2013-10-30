@@ -23,5 +23,3 @@ OBS!!!
 ## Coordination
 
 - Iva focusses on the weekends and it's ok from all of us to be one sprint behind :)
-- Khan is it an option for you as well to work like that? Please come back on that as we wish to discuss more things
-with you :)
