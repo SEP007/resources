@@ -4,17 +4,23 @@
 
 ### Kanban & Issues
 
-Our internal development repositories are setup up to use [GitHub Issues](https://github.com/blog/831-issues-2-0-the-next-generation) which integrate awesome into development if you take some time to understand them but they are fairly easy after all.
+The group will develop in a Scrum fashion using a Kanban board to visualize the flow. Anyhow, sprints are still time-boxed and there is not such a thing as a Work in Progress (WIP). A sprint will start up with a planning meeting on Monday and will finish with an acceptance test on its last day. In between the team will have daily standups on every meeting day to answer the usual questions:
 
-Moreover, Huboard (one of our proposals) has been setup to be used with our project. The reason to pick it over the *Pivotaltracker* is solely the fact hat it integrates with *GitHub Issues*. Thereby, every issue can be tagged with one of `Backlog`, `Ready`, `Working` or `Done` which will make them show up in the appropriate Kaban board's (Huboard) column. Other tag such as `bug` or `enhancement` can obviously also be assigned. Huboard is thereby just a visual Kanban-board-ish representation of our *GitHub Issue Tracker*.
+- What are you working on?
+- What will you be working on?
+- What are current problems?
 
-**Links to the boards**
+Our internal development repositories are setup up to use [GitHub Issues](https://github.com/blog/831-issues-2-0-the-next-generation) which integrate kindly into development if you take some time to understand them but they are fairly easy after all.
 
-- [Patat](http://huboard.com/SEP007/lmvc-patat)
-- [lmvc](http://huboard.com/SEP007/lmvc-lmvc)
-- [lmvc-modules](http://huboard.com/SEP007/lmvc-modules)
-- [lmvc-troba](http://huboard.com/SEP007/lmvc-troba)
-- [scandiojs](http://huboard.com/SEP007/scandiojs)
+Moreover, Huboard (one of our project proposals) has been setup to be used with our project. The reason to pick it over the *Pivotaltracker* is solely the fact hat it integrates with *GitHub Issues*. Thereby, every issue can be tagged with one of `Backlog`, `Ready`, `Working` or `Done` which will make them show up in the appropriate Kaban board's (Huboard) column. Other tag such as `bug` or `enhancement` can obviously also be assigned. Huboard is thereby just a visual Kanban-board-ish representation of our *GitHub Issue Tracker*.
+
+Stories shall be tagged according to their nature in `User Story`, `Developer Story` and `Restaurant Story`. They will then be attached to a milestone which is a sprint in Agile fashion. A sprint will usually last one week but the first will last two as every team member has to get familiar with the system. This tries to take the learning curve into account and can be adjusted and discussed lateron depending on the teams' opinions on it.
+
+Each story will be developed in its own branch which will be related to a pull-request to embrace disucssions open discussions upon it. During the groups' acceptance test on the sprint's last day, the group will review and discuss the features and decide if they can me merged into `master`. Every feature which is non-interface related and testable should be tested to have an >= 60% code-coverage. The coverage details will be visible on each project repository and gathered using TravisCI for continuous integration. Furthermore, each member can inspect files and their degree of coverage whenever running a test-suite.
+
+The overall KanBan for user stories and bugs is available under [Patat' Huboard](http://huboard.com/SEP007/lmvc-patat) and its [issue page](https://github.com/SEP007/lmvc-patat/issues). Open and closed pull-requests are accessible within their dependent repository and will link back to Patat's "global" issue tracker. All to have a central view of bugs and changes. Whenever a issue mentions a pull-request (even in another repository) its gonna show up in the pull-reqeusts history.
+
+The group intends to use some further Agile methodologies during this project. Anyhow, XP has been dropped in favor of just working together and helping out where possible whenver somebody has a question. Continuous Integration and Test-Driven Development on the other hand are endorsed and tried and but their use will be evalutated at a later stage within the project. Furthermore, the group will assign velocities to stories in order to create Burndown Charts. Still, these will not be very valuable within the beginning as everybody has to make himself familiar with the system.
 
 ## On Commits & Git
 
