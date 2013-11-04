@@ -13,7 +13,7 @@ The closer the obtained value is to 1, the more attractive Patat is to its users
 The following table contains the results obtained from the above mentioned interviews. The column "Sum" designated a total number of points per questionnaire, whereas "Result" designates the value of Attractive Interaction metric calculated as a relation of Sum to maximum possible points (125).
 
 | Respondent        | Sum           | Result |
-| ----------------- | :-------------: | -----: |
+| :---------------: | :-------------: | -----: |
 | 1                 | 120             | 0.96   |
 | 2                 | 84              | 0.67  |
 | 3                 | 100             | 0.80   |
@@ -30,11 +30,11 @@ To improve Patat's attractiveness, every user was asked for feedback about the a
 Two respondents pointed out the relative monotony of the color scheme used in Patat. Insufficient use of contrasting colors hinders user's concentration on certain aspects of the page and makes Patat seem white and empty.
 
 #### Home page
-![alt text](https://raw.github.com/SEP007/resources/master/survey/home-page.png "Patat's home page")
+![alt text](https://raw.github.com/SEP007/resources/master/quality-metrics/attractiveness/resources/home-page.png "Patat's home page")
 Related to the problem above, layout and color of items in the navigation bar was described as unsatisfactory by one of the respondents. They expressed concern of not being able to locate themselves with respect to the items in the bar due to lack of indication of current position by means of different colors or shapes. This issue is not explicitly in the score of the discussed survey, but it was considered as a valuable feedback regarding Patat's usability.
 
 #### Search results page
-![alt text](https://raw.github.com/SEP007/resources/master/survey/search-results.png "Patat's search results page")
+![alt text](https://raw.github.com/SEP007/resources/master/quality-metrics/attractiveness/resources/search-results.png "Patat's search results page")
 Items of the pagination bar were regarded as small by one of the respondents and it was also pointed out that the functionality behind them (namely, the possibility to navigate to a certain item in the list) is not apparent (the latter is out of score of the measurement at hand, however it was treated as a feedback for Patat's usability). 
 Separators were also described as being of not sufficient size by one of the respondents, as well as the size and positioning of its content.
 Two of the respondents addressed the positioning and font of calculated price and distance as being inadequate.
