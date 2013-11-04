@@ -22,6 +22,9 @@ The overall KanBan for user stories and bugs is available under [Patat' Huboard]
 
 The group intends to use some further Agile methodologies during this project. Anyhow, XP has been dropped in favor of just working together and helping out where possible whenver somebody has a question. Continuous Integration and Test-Driven Development on the other hand are endorsed and tried and but their use will be evalutated at a later stage within the project. Furthermore, the group will assign velocities to stories in order to create Burndown Charts. Still, these will not be very valuable within the beginning as everybody has to make himself familiar with the system.
 
+The velocities will be assigned during the team's weekly planning session. Numbers assigned should be of the fibonacci sequence between 1-13 and estimate a user stories relative complexity compared to other stories. The team's fixed velocity throughput per sprint should be around 50-60 but can be adjusted in regard to the members' learning curve. The first sprints user stories will be used as an experienced based reference for further estimations which will always build up on the previous estimations.
+A weekly planning session will start by the team putting up possible user stories on a whiteboard comparing and estimating them during a discussion. According to the velocities assigned, the team will pick the stories for the next sprint.
+
 ## On Commits & Git
 
 Changes to libraries should be made in seperate branches which later can be pulled into the *master* with *pull requests*. This [article](http://nvie.com/git-model/) decribes a sustainable branching model. Stating that every feature, bug, etc should be developed in a single branch as in `feature-name` or `bug-name`. The branch's code itself should be reviewed and afterwards be pulled into *master*.
