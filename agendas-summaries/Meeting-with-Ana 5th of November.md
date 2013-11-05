@@ -6,6 +6,13 @@
 * Metrics
 
 ## Final Report
+*User stories
+*Quality model
+*Describe implementation
+*Talk about decisions made for the project
+*Testing of the system (manual, automated)
+*Traceability
+*If needed to add code, only small snippets
 
 ## Post Mortem
 *Group and individual parts in it
@@ -15,3 +22,4 @@
 
 ##Notes
 *Everything should be done by 6/12
+*Better work on a weekly basis on the Final Report
