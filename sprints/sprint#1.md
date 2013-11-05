@@ -1,4 +1,4 @@
-==Sprint duration 28/10 - 8/11
+##Sprint duration 28/10 - 8/11
 
 Name | User Story | Velocity | Review
 :-- | :--: | :--: | --:
