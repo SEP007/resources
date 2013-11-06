@@ -24,3 +24,13 @@ Just not showing up ain't cool - you gotta pay real money here!
 | Dani   | Anya   | Kostas | John   | Tobi   | Khan   |
 | -------|--------| -------|--------|--------|--------|
 | 0x     | 0x     | 0x     | 0x     | 0x     | 2x     |
+
+
+## Not speaking English
+
+Respect your team members, come on.
+
+| Dani   | Anya   | Kostas | John   | Tobi   |
+| -------|--------| -------|--------|--------|
+| 0      | 0      | 0      | 3      | 0      |
+|**min** |**min** | **min**| **min**| **min**|
