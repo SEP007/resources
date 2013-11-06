@@ -21,5 +21,21 @@ All of which embodied tasks to be solved within the first sprint and even before
 
 Every project has been setup to have a dependency to PHPUnit with a sample [configuration](https://github.com/SEP007/lmvc-troba/blob/master/tests/phpunit.xml) automatically generating code coverage metrics. Futhermore, every project has been [integrated with TravisCI](https://github.com/SEP007/lmvc-modules/blob/master/.travis.yml) which builds to every push to GitHub as intended. As an addition, every change to a repository is reported back to the chat service HipChat. This includes a warning whenever the coverage drops more than 5% by a change. Build details are available on [TracisCI's homepage](https://travis-ci.org/SEP007/lmvc-modules/builds) for every push's latest commit.
 
+Local coverage details might look like the following figure.
+![Coverage 1st Sprint for lmvc-utils](https://raw.github.com/SEP007/resources/master/quality-metrics/testability/resources/coverage-utils-1st-sprint.jpg)
+
+More detailed views of a class even show single uncovered lines.
+![Coverage 1st Sprint for lmvc-utils](https://raw.github.com/SEP007/resources/master/quality-metrics/testability/resources/coverage-utils-1st-sprint-details.jpg)
+
+Lastly, the coverage of a complete repository is always visible on its [readme file](https://github.com/sep007/lmvc-troba) indicated by a badge.
+
+All this allowed for a good overview of the project's state in regard to testing.
+
+| Project       | %     |
+| -------------  ------:|
+| lmvc-troba    |   62% |
+| lmvc-utils    |   80% |
+| lmvc-modules  |    0% |
+| lmvc          |    0% |
 
 
