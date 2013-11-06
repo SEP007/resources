@@ -32,7 +32,7 @@ Lastly, the coverage of a complete repository is always visible on its [readme f
 All this allowed for a good overview of the project's state in regard to testing.
 
 | Project       | %     |
-| -------------  ------:|
+| :------------ | -----:|
 | lmvc-troba    |   62% |
 | lmvc-utils    |   80% |
 | lmvc-modules  |    0% |
