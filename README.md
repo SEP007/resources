@@ -19,6 +19,7 @@ Clone and share any resources through this project. Such as notes, images, icons
    * [1st Quality Model Meeting](/agendas-summaries/1st-meeting-quality-model.md)
    * [3rd Quality Model Meeting](/agendas-summaries/3rd-meeting-quality-model.md)
    * [4th Quality Model Meeting](/agendas-summaries/4th-meeting-quality-model.md)
+   * [Meeting with Ana @5/11](/agendas-summaries/Meeting-with-Ana 5th of November.md)
 * [Member Fines](member-fines.md)
 * [List of References](development-references.md)
 * [Development Environment](development-environment.md)
