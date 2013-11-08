@@ -7,14 +7,12 @@ The team will be informed immediately or latest at the next sprint planning meet
 
 ## Measurement results
 
-| User story | Input                     | Action                           | Output                      | Measured time
-| :--------: | :-----------------------: | -------------------------------: | --------------------------: | --------------:
-| #6         | Restaurant: Franks Imbiss | Click on map in restaurant view	| Directions for walking mode |	5,22
-|			 | 							 | Select driving mode in map view  | Directions for driving mode |	7,27
-| #7         | Customer data: dani, dani,| Create new customer user account | Log in view    			  | 1,78
-|            | Daniela Holzner,          |									|							  |
-|			 | danyholzner@freenet.de	 | 									|							  |
-| #14        | User: tdeekens, 123       | Sign in & go to menu view        | Click on edit in menu view  | 1,59
-|            |                           | Change category and save         | Menu view                   | 1,74
+| User story | Input                     				  | Action                           | Output                      | Measured time
+| :--------: | :----------------------------------------: | -------------------------------: | --------------------------: | --------------:
+| #6         | Restaurant: Franks Imbiss 				  | Click on map in restaurant view	 | Directions for walking mode |	5,22
+| #6		 | 							 				  | Select driving mode in map view  | Directions for driving mode |	7,27
+| #7         | Customer data: dani, dani, Daniela Holzner,| Create new customer user account | Log in view    			   | 1,78
+| #14        | User: tdeekens, 123       				  | Sign in & go to menu view        | Click on edit in menu view  | 1,59
+| #14        |                           				  | Change category and save         | Menu view                   | 1,74
 
 Both measurements conducted for user story #6 exceed 5s. The team will be informed about this during the next meeting.
