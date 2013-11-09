@@ -8,4 +8,4 @@ Anya | [As a user I want to keep a list of my favorite dishes & restaurants to n
 Tobi | [As a developer, I want Patat to use a templating language to increase the comprehensibility of code and possibly to decrease workload on th server](https://github.com/SEP007/lmvc-patat/issues/18) (aka #), [As a developer I want logs from the Logger be written into ChromePHP](https://github.com/SEP007/lmvc-patat/issues/42) (aka #42)   | 5, 5 |  #25
 John | [As a user, I want to get a visual of the opening times of restaurants](https://github.com/SEP007/lmvc-patat/issues/10) (aka #10) | 5 | tba
 Kostas | [As a developer, I want a reusable i18n module which easily integrate with lmvc](https://github.com/SEP007/lmvc-patat/issues/25) (aka #25)  | 13 | tba
-Total | | 58 |
+Total | | 59 |
