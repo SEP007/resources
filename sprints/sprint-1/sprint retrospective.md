@@ -1,4 +1,4 @@
-##Scrum Retrospective 8/11
+##Sprint Retrospective 8/11
 
 #Positive
 * Help from Tobi
