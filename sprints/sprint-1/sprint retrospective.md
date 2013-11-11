@@ -7,7 +7,7 @@
 * Standups worked well
 
 #Negative
-*Speak the group language
+* Speak the group language
 * Code Review should be done in time
 * Scrum Master should more involved in the role
 * We must ask for help on time
