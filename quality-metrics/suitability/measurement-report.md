@@ -7,18 +7,18 @@ The outcome of each measurement and comparison is documented at the end of a spr
 
 ## Measurement results
 
-| 				    | Project start   | End of 1st sprint |
-| :---------------: | :-------------: | ----------------: |
-| Accepted          | 0               | 4                 |
-| Not accepted      | 0               | 2                 |
-| Not started       | 24              | 19                |
-| In total          | 24              | 25                |
-| Measured at       | 01.11.2013      | 07.11.2013        |
+| 				    | Project start   | End of 1st sprint | End of 2nd sprint |
+| :---------------: | :-------------: | ----------------: | ----------------: |
+| Accepted          | 0               | 4                 | 7                 |
+| Not accepted      | 0               | 2                 | 7                 |
+| Not started       | 24              | 19                | 14                |
+| In total          | 24              | 25                | 28                |
+| Measured at       | 01.11.2013      | 07.11.2013        | 14.11.2013        |
 
 ## Burndown chart
 
-![alt text](https://raw.github.com/SEP007/resources/master/quality-metrics/suitability/resources/burndown_chart1.png)
+![alt text](https://raw.github.com/SEP007/resources/master/quality-metrics/suitability/resources/131114-burndown_chart1.png)
 
 ## Burndown chart (relative to project start)
 
-![alt text](https://raw.github.com/SEP007/resources/master/quality-metrics/suitability/resources/burndown_chart2.png)
+![alt text](https://raw.github.com/SEP007/resources/master/quality-metrics/suitability/resources/131114-burndown_chart2.png)
