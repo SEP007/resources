@@ -37,3 +37,20 @@ Interestingly enough this was the first time the whole system was installed on W
 It has been decided to address issues of being unable to run and develop the system from Windows machines. For this bug-tickets were opened and ultimativly closed. Specifically for e.g. the Asset Pipeline [here](https://github.com/SEP007/lmvc-modules/issues/6) and more general for all modules [here](https://github.com/SEP007/lmvc-modules/pull/7).
 
 Anyhow, it has been decided to not automate the installation for Windows users as 80% of developers are using UNIX like systems after all.
+
+## Measurements after first sprint
+
+Apart from system dependent problems the installation process on every computer among the group worked fine and normally, depending on the network connection takes among 2-3 minutes.
+Founded in the fact that composer downloads whole repositories of every dependency onto every machine, subsequent updates only require downloading changes. Updating every developers application after the first sprint took about 30 seconds.
+
+Still, problems of composer handling the repositories' origin occured. Every project in the teams organization is a fork of the original project. Composer somehow mixed up the original origin with the forks' new ones and downloaded the outdated sources. After the team noticed this flaw and updated the origin to the fork's one, updating and synchronizing all dependencies worked fast and as expected. This problem is not expected to reoccur during any other sprint.
+
+Updating the live server worked without any problems and took about 15 seconds reasoned in the fact of a really fast internet connection from its datacentre to GitHub.
+
+| Task          | Seconds |
+| :------------ | ------: |
+| Installing    | ~ 120   |
+| Update local  | ~ 30    |
+| Updat live    | ~ 15    |
+
+## Measurements after second sprint

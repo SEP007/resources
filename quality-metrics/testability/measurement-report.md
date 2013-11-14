@@ -31,11 +31,26 @@ Lastly, the coverage of a complete repository is always visible on its [readme f
 
 All this allowed for a good overview of the project's state in regard to testing.
 
-| Project       | %     |
-| :------------ | -----:|
-| lmvc-troba    |   62% |
-| lmvc-utils    |   80% |
-| lmvc-modules  |    0% |
-| lmvc          |    0% |
+| Project       | %     | Seconds  |
+| :------------ | -----:| --------:|
+| lmvc-troba    |   62% |      4.2 |
+| lmvc-utils    |   80% |     1.15 |
+| lmvc-modules  |    0% |        - |
+| lmvc          |    0% |        - |
 
+## State after second sprint
 
+Changes were made in the lmvc-utils and lmvc-modules project both changes being testable. Anyhow, as parts of lmvc moved to lmvc-utils problems within testing them came about. Established in the fact of code expecting to be run within the context of a web server which is not the case in a testing scenario using PHPUnit. Furtheron, the web server's context could not be emulated or mocked. All leading to the decision of not adjusting and testing the old existing code.
+
+As a new lmvc-module taking over tasks in rendering the interface about 10 test-cases were written. All not testing the correctness of the templating-parser itself but the infrastructure setup to access them easily in a uniform way.
+
+The lmvc-utils logger got a new scribe logging into the DevTools of Google Chrome, this also required a new formatter.
+
+The following code coverages only deal with parts of the libraries affected by testing, omiting the old, untouched ones.
+
+| Project       | %     | Seconds  |
+| :------------ | -----:| --------:|
+| lmvc-troba    |   62% |      4.2 |
+| lmvc-utils    |   82% |     1.19 |
+| lmvc-modules  |   72% |    0.265 |
+| lmvc          |    0% |        - |
