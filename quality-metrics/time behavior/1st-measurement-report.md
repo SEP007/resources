@@ -16,4 +16,5 @@ To be able to compare measured times with one another, measurements are always c
 | #14        | User: tdeekens, 123       				  | Sign in & go to menu view        | Click on edit in menu view  | 1,59
 | #14        |                           				  | Change category and save         | Menu view                   | 1,74
 
-Both measurements conducted for user story #6 exceed 5s. The team will be informed about this during the next meeting.
+## Conclusion
+Both measurements conducted for user story #6 exceed 5s. The team was informed about this. Within the team, it was agreed upon that no action will be taken because the negative time behavior is caused by a plugin that is out of our control.
