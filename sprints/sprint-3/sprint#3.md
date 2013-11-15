@@ -1,0 +1,10 @@
+##Sprint#1 duration 8/11 - 15/11
+Name | User Story | Story Points | Review
+:-- | :--: | :--: | --:
+Dani | [As a user, I want to be able to leave comments about dishes and restaurants](https://github.com/SEP007/lmvc-patat/issues/51) (aka #51)  | 8 | #10, #16 and #53
+Iva | [As a user I want to be able to rate the dishes and the restaurants](https://github.com/SEP007/lmvc-patat/issues/11) (aka #11) | 8 | #9
+Anya | [As a user, I want Patat to use attractive UI components](https://github.com/SEP007/lmvc-patat/issues/39) (aka #39), [As a user I want to keep a list of my favorite restaurants](https://github.com/SEP007/lmvc-patat/issues/56) (aka #56), [As a user, I want a pretty view for favorite dishes](https://github.com/SEP007/lmvc-patat/issues/57) (aka #57)  | 3, 3, 2 |  #40 and #51
+Tobi | [As a developer, I want snippet support with auto completion to simplify snippet use](https://github.com/SEP007/lmvc-patat/issues/16) (aka #16),[As a developer, I want understandable example data in the database](https://github.com/SEP007/lmvc-patat/issues/40)(aka #40), [As a developer I want lmvc util's logger to have a ScreenScribe](https://github.com/SEP007/lmvc-patat/issues/55) (aka #55), [As a developer I want lmvc's echo-statement to be replaced by calls to the util's Logger](https://github.com/SEP007/lmvc-patat/issues/54) (aka #54)  | 5, 1, 1, 2 |  #39
+John | [As a user, I want to get a visual of the opening times of restaurants taking into account my location so that I do not attempt to get to an restaurant needlessly](https://github.com/SEP007/lmvc-patat/issues/10). (aka #10) | 8 | #56 and #57
+Kostas | [As a user, I want Patat to support multiple languages](https://github.com/SEP007/lmvc-patat/issues/9) (aka #9) [Enchancements in password fields](https://github.com/SEP007/lmvc-patat/issues/53) (aka #53)  | 1, 5 | #11, #54 and #55
+Total | | 47 |
