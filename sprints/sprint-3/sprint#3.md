@@ -1,4 +1,4 @@
-##Sprint#1 duration 8/11 - 15/11
+##Sprint#3 duration 8/11 - 15/11
 Name | User Story | Story Points | Review
 :-- | :--: | :--: | --:
 Dani | [As a user, I want to be able to leave comments about dishes and restaurants](https://github.com/SEP007/lmvc-patat/issues/51) (aka #51)  | 8 | [#10](https://github.com/SEP007/lmvc-patat/issues/10), [#16](https://github.com/SEP007/lmvc-patat/issues/16) and [#53](https://github.com/SEP007/lmvc-patat/issues/53)
