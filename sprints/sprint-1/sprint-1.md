@@ -1,4 +1,4 @@
-##Sprint#1 duration 28/10 - 8/11
+# Sprint#1 duration 28/10 - 8/11
 
 Name | User Story | Story Points | Review
 :-- | :--: | :--: | --:
