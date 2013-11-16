@@ -33,3 +33,23 @@ Clone and share any resources through this project. Such as notes, images, icons
    - [Todo App with lmvc](https://github.com/SEP007/php-examples/tree/master/lmvc-todo) ([running live here](http://todo.tdeekens.name))
    - [My @tdeekens's blog](https://github.com/tdeekens/tdeekens.name) ([running live here](http://tdeekens.name))
 * [Patat's architecture](/architecture/architecture.jpg)
+* Quality Metrics
+  * [Attractiveness - 1st measurement](https://github.com/SEP007/resources/blob/master/quality-metrics/attractiveness/1st-measurement-report.md)
+  * [Changeability](https://github.com/SEP007/resources/blob/master/quality-metrics/changeability/metrics.md)
+  * [Installability](https://github.com/SEP007/resources/blob/master/quality-metrics/installability/measurement-report.md)
+  * [Learnability](https://github.com/SEP007/resources/blob/master/quality-metrics/learnability/metrics.md)
+  * [Suitability](https://github.com/SEP007/resources/blob/master/quality-metrics/suitability/measurement-report.md)
+  * [Testability](https://github.com/SEP007/resources/blob/master/quality-metrics/testability/measurement-report.md)
+  * [Time behavior](https://github.com/SEP007/resources/blob/master/quality-metrics/time%20behavior/1st-measurement-report.md)
+* 1st Sprint
+  * [Work & Stories](https://github.com/SEP007/resources/blob/master/sprints/sprint-1/sprint-1.md)
+  * [Retrospective](https://github.com/SEP007/resources/blob/master/sprints/sprint-1/sprint-retrospective.md)
+  * [Upgrade Guide](https://github.com/SEP007/resources/blob/master/sprints/sprint-1/upgrade-guide.md)
+* 2nd Sprint
+  * [Work & Stories](https://github.com/SEP007/resources/blob/master/sprints/sprint-2/sprint-2.md)
+  * [Retrospective](https://github.com/SEP007/resources/blob/master/sprints/sprint-2/sprint-retrospective.md)
+  * [Upgrade Guide](https://github.com/SEP007/resources/blob/master/sprints/sprint-2/upgrade-guide.md)
+* 3rd Sprint
+  * [Work & Stories](https://github.com/SEP007/resources/blob/master/sprints/sprint-3/sprint-3.md)
+  * [Retrospective](https://github.com/SEP007/resources/blob/master/sprints/sprint-3/sprint-retrospective.md)
+  * [Upgrade Guide](https://github.com/SEP007/resources/blob/master/sprints/sprint-3/upgrade-guide.md)
