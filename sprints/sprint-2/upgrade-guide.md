@@ -10,6 +10,11 @@
 - Import followings dumps
   - `https://github.com/SEP007/lmvc-patat/blob/master/docs/emailverification.sql`
 
+## Configuration
+
+- Add rendering entry from `sample-config.json` to your `config.json`
+- Add emails entry from `sample-config.json` to your `config.json`
+
 ## Patat update
 
 - Run `git pull origin master` from within `lmvc-patat`-folder
