@@ -13,6 +13,10 @@
   - `https://github.com/SEP007/lmvc-patat/blob/master/docs/customers.sql`
   - `https://github.com/SEP007/lmvc-patat/blob/master/docs/131031-dish_categories.sql`
 
+## Configuration
+
+- Add logger entry from `sample-config.json` to your `config.json`
+
 ## Patat update
 
 - Run `git pull origin master` from within `lmvc-patat`-folder

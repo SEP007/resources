@@ -14,6 +14,7 @@
 
 - Add rendering entry from `sample-config.json` to your `config.json`
 - Add emails entry from `sample-config.json` to your `config.json`
+- Add ChromeScribe to Logger entry from `sample-config.json` to your `config.json` if you want to use ChromePHP
 
 ## Patat update
 
