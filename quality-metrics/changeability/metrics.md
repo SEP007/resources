@@ -23,3 +23,29 @@ This functionality is well documented.
 
 Use case #24
 This functionality is well documented.
+
+Use case #8
+Changes in the files /controllers/Dishes.php, /controllers/Favorites.php, javascripts/views/jquery.favorites.js
+are not documented at all and this has as a result poor change control on these files.
+
+Use case #13
+This functionality is well documented.
+
+Use case #22
+This functionality is well documented.
+
+Use case #50
+Changes in the files /controllers/Dishes.php, /controllers/Favorites.php, javascripts/views/jquery.favorites.js
+are not documented at all and this has as a result poor change control on these files.
+
+Use case #18
+This functionality is well documented.
+
+Use case #30
+This functionality is well documented.
+
+Use case #4
+This functionalty is well documented.
+
+Use case #42
+This functionality is well documented.
