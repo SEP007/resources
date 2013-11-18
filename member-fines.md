@@ -12,7 +12,7 @@ Just listing the minutes, summing them up and calculating the final fee.
 
 | Dani   | Anya   | Kostas | John   | Tobi   | Khan   |
 | -------|--------| -------|--------|--------|--------|
-|        |        |        |        |   45     |        |
+|        |        |        |   11     |   45     |        |
 |        |        |        |        |        |        |
 |        |        |        |        |        |        |
 |**SEK** |**SEK** | **SEK**| **SEK**| **SEK**| **SEK**|
