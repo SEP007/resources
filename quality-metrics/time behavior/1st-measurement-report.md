@@ -24,8 +24,8 @@ Both measurements conducted for user story #6 exceed 5s. The team was informed a
 
 | User story | Input                     				  | Action                           | Output                      | Measured time
 | :--------: | :----------------------------------------: | -------------------------------: | --------------------------: | --------------:
-| #13        | Customer: nils, nils, Nils Holgersson | Create new customer user account	 | Log in view & email |	6,11
-| #13   		 | | Signup has not been completed; logging in is tried anyways  | Customer is not logged in |	4,68
+| #13        | Customer: nils1, nils1, Nils Holgersson1 | Create new customer user account	 | Log in view & email |	3,08
+| #13   		 | | Signup has not been completed; logging in is tried anyways  | Customer is not logged in |	2,07
 | #13        | | Complete sign up by clicking on link in email | Completed signup view | 4,86
 | #13        | | Log in | Click on edit in menu view  | 5,45
 | #13        | Restaurant: karlsson, karlsson, Karlsson, Karlssons Garage, Linnegatan 54, 41308 Göteborg | Create new restaurant account |  Log in view | 11,62
