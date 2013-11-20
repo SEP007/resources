@@ -47,10 +47,20 @@ Still, problems of composer handling the repositories' origin occured. Every pro
 
 Updating the live server worked without any problems and took about 15 seconds reasoned in the fact of a really fast internet connection from its datacentre to GitHub.
 
-| Task          | Seconds |
-| :------------ | ------: |
-| Installing    | ~ 120   |
-| Update local  | ~ 30    |
-| Updat live    | ~ 15    |
+| Task          | Seconds | Dependencies | Database changes |
+| :------------ | :-----: | :----------: | ---------------: |
+| Installing    | ~ 120   |          16  |               3  |
+| Update local  | ~ 30    |          16  |               3  |
+| Update live   | ~ 15    |          16  |               3  |
 
 ## Measurements after second sprint
+
+Updating systems after the second sprint turned out to be less tedious than after the first. Luckily no bigger problems with composer occured, just performing a `git pull origin master && composer update` executed the tasks for every member and updated their local system.
+
+Updating the dependencies took slightly more time though as a new dependency had to be fetched from a SVN repository which takes some time whenever performed.
+
+| Task          | Seconds | Dependencies | Database changes |
+| :------------ | :-----: | :----------: | ---------------: |
+| Installing    | ~ 125   |          17  |               2  |
+| Update local  | ~ 36    |          17  |               2  |
+| Update live   | ~ 18    |          17  |               2  |
