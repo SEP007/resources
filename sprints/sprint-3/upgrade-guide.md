@@ -8,5 +8,5 @@
   - `https://github.com/SEP007/lmvc-patat/blob/master/docs/english-users.sql`
 
 - Internationalization (i18n)
-  - Copy the I18n section from sample-config.js to your config.js
+  - Copy the modules and I18n section from sample-config.js to your config.js
   - Execute `php composer.phar update`
