@@ -21,4 +21,4 @@ The outcome of each measurement and comparison is documented at the end of a spr
 
 ## Burndown chart (relative to project start)
 
-![alt text](https://raw.github.com/SEP007/resources/master/quality-metrics/suitability/resources/131121-burndown_chart2.png)
+![alt text](https://raw.github.com/SEP007/resources/master/quality-metrics/suitability/resources/131123-burndown_chart2.png)
