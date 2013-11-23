@@ -36,3 +36,22 @@ Both measurements conducted for user story #6 exceed 5s. The team was informed a
 | #22        | | Click on edit dish | Edit view | 2,01
 
 All conducted measurements, except from one where a bug has been found, resulted in a time below 5s. For the identified bug, a issue has been created in GitHub. All other tested user stories are accepted from the time behavior point of view. One lessons learned is that the measurements have to be conducted at the same location in order to be able to compare measurements. 
+
+### 3rd measurements
+
+| User story | Input                     				  | Action                           | Output                      | Measured time
+| :--------: | :----------------------------------------: | -------------------------------: | --------------------------: | --------------:
+| #56, 57    | User: kostas, 123 | Log in, Search for dishes around current location	 | Dishes view |	4,7
+| #56, 57  	 | | Favorite one not yet favorited dish | Dish view |	0,44
+| #56, 57    | | Unfavorite the recently favorited dish | Dish view | 0,33
+| #56, 57    | | Go to my favorites | Favorites view  | 2,14
+| #56, 57    | | Go to tab places | Favorites view | 2,21 
+| #56, 57    | | Navigate to restaurant page by clicking on a restaurant name | Imbiss view | 6,92
+| #4, 51     | | Search for dishes around current location, navigate to restaurant page by clicking on a restaurant name | Restaurant view | 6,04
+| #4, 51     | User: kostas, 123 | Log in, search for dishes and navigate to same restaurant as previously | Restaurant view | 6,23
+| #4, 51     | | Toggle comments | Restaurant view | 0
+| #4, 51     | | Leave comment for restaurant | Restaurant view | 5,62
+| #9, 25     | | Go to sign up | Sign up view | 2,48
+| #9, 25     | | Click on Sweden flag | Sign up view | 2,51
+
+All measurements, except from measurements taken at the imbiss view resulted in positive results. Loading the imbiss view takes more than 5s because it has been evolved with a lot of new features: translation, viewing and leaving comments, favoriting, displaying the category, ... It has to be discussed within the team whether counter-measurements can/will be taken.
