@@ -54,3 +54,14 @@ The following code coverages only deal with parts of the libraries affected by t
 | lmvc-utils    |   82% |     1.19 |
 | lmvc-modules  |   72% |    0.265 |
 | lmvc          |    0% |        - |
+
+## State after third sprint
+
+The third sprint mostly contained UI related changes and only a minor addition to the lmvc-utils project. Furthermore a new module for translations was introduced to the lmvc-modules project but has not been tested so far. Hence, code coverage and test execution time almost did not change.
+
+| Project       | %     | Seconds  |
+| :------------ | -----:| --------:|
+| lmvc-troba    |   62% |      4.2 |
+| lmvc-utils    |   83% |     1.23 |
+| lmvc-modules  |   71% |    0.285 |
+| lmvc          |    0% |        - |
