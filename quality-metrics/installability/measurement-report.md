@@ -64,3 +64,13 @@ Updating the dependencies took slightly more time though as a new dependency had
 | Installing    | ~ 125   |          17  |               2  |
 | Update local  | ~ 36    |          17  |               2  |
 | Update live   | ~ 18    |          17  |               2  |
+
+## Measurements after third sprint
+
+The third sprint contained changes in dependencies and database. One dependency has been added for the translation module to read files in yaml-format. The database has been changed to support restaurant's opening times, to add comments and more realistic example data. Overall, a normal update not affecting previous measurements significantly. Still, merging multiple feature from the sprint into the main branch became a major issue and took time not reflected in these measurements here.
+
+| Task          | Seconds | Dependencies | Database changes |
+| :------------ | :-----: | :----------: | ---------------: |
+| Installing    | ~ 155   |          18  |               5  |
+| Update local  | ~ 42    |          18  |               5  |
+| Update live   | ~ 35    |          18  |               5  |
