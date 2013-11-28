@@ -7,18 +7,18 @@ The outcome of each measurement and comparison is documented at the end of a spr
 
 ## Measurement results
 
-| 				    | Project start   | End of 1st sprint | End of 2nd sprint | End of 3rd sprint
-| :---------------: | :-------------: | ----------------: | ----------------: | ----------------:
-| Accepted          | 0               | 4                 | 7                 | 20
-| Not accepted      | 0               | 2                 | 7                 | 2
-| Not started       | 24              | 19                | 14                | 13
-| In total          | 24              | 25                | 28                | 35
-| Measured at       | 01.11.2013      | 07.11.2013        | 14.11.2013        | 21.11.2013
+| 				    | Project start   | End of 1st sprint | End of 2nd sprint | End of 3rd sprint | End of 4th sprint
+| :---------------: | :-------------: | ----------------: | ----------------: | ----------------: | ----------------:
+| Accepted          | 0               | 4                 | 7                 | 20	              | 33
+| Not accepted      | 0               | 2                 | 7                 | 2                 | 2
+| Not started       | 24              | 19                | 14                | 13                | 9
+| In total          | 24              | 25                | 28                | 35                | 44
+| Measured at       | 01.11.2013      | 07.11.2013        | 14.11.2013        | 21.11.2013        | 28.11.2013
 
 ## Burndown chart
 
-![alt text](https://raw.github.com/SEP007/resources/master/quality-metrics/suitability/resources/131121-burndown_chart1.png)
+![alt text](https://raw.github.com/SEP007/resources/master/quality-metrics/suitability/resources/131128-burndown_chart1.png)
 
 ## Burndown chart (relative to project start)
 
-![alt text](https://raw.github.com/SEP007/resources/master/quality-metrics/suitability/resources/131123-burndown_chart2.png)
+![alt text](https://raw.github.com/SEP007/resources/master/quality-metrics/suitability/resources/131128-burndown_chart2.png)
