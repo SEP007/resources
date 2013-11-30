@@ -1,7 +1,9 @@
-#Deadlines
+# Deadlines
 
-##Tuesday morning
+## Tuesday morning
+
 * Finish with common parts and user stories
 
-##Wednesday morning
+## Wednesday morning
+
 * Finish with the Metrics
