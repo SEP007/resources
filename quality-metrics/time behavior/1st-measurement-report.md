@@ -37,21 +37,35 @@ Both measurements conducted for user story #6 exceed 5s. The team was informed a
 
 All conducted measurements, except from one where a bug has been found, resulted in a time below 5s. For the identified bug, a issue has been created in GitHub. All other tested user stories are accepted from the time behavior point of view. One lessons learned is that the measurements have to be conducted at the same location in order to be able to compare measurements. 
 
-### 3rd measurements
+### 3rd measurement
 
 | User story | Input                     				  | Action                           | Output                      | Measured time
 | :--------: | :----------------------------------------: | -------------------------------: | --------------------------: | --------------:
 | #56, 57    | User: kostas, 123 | Log in, Search for dishes around current location	 | Dishes view |	4,7
-| #56, 57  	 | | Favorite one not yet favorited dish | Dish view |	0,44
-| #56, 57    | | Unfavorite the recently favorited dish | Dish view | 0,33
+| #56, 57  	 | | Favorite one not yet favorited dish | Dishes view |	0,44
+| #56, 57    | | Unfavorite the recently favorited dish | Dishes view | 0,33
 | #56, 57    | | Go to my favorites | Favorites view  | 2,14
 | #56, 57    | | Go to tab places | Favorites view | 2,21 
 | #56, 57    | | Navigate to restaurant page by clicking on a restaurant name | Imbiss view | 6,92
-| #4, 51     | | Search for dishes around current location, navigate to restaurant page by clicking on a restaurant name | Restaurant view | 6,04
-| #4, 51     | User: kostas, 123 | Log in, search for dishes and navigate to same restaurant as previously | Restaurant view | 6,23
-| #4, 51     | | Toggle comments | Restaurant view | 0
-| #4, 51     | | Leave comment for restaurant | Restaurant view | 5,62
+| #4, 51     | | Search for dishes around current location, navigate to restaurant page by clicking on a restaurant name | Imbiss view | 6,04
+| #4, 51     | User: kostas, 123 | Log in, search for dishes and navigate to same restaurant as previously | Imbiss view | 6,23
+| #4, 51     | | Toggle comments | Imbiss view | 0
+| #4, 51     | | Leave comment for restaurant | Imbiss view | 5,62
 | #9, 25     | | Go to sign up | Sign up view | 2,48
 | #9, 25     | | Click on Sweden flag | Sign up view | 2,51
 
 All measurements, except from measurements taken at the imbiss view resulted in positive results. Loading the imbiss view takes more than 5s because it has been evolved with a lot of new features: translation, viewing and leaving comments, favoriting, displaying the category, ... It has to be discussed within the team whether counter-measurements can/will be taken.
+
+### 4th measurement
+
+| User story | Input                     				  | Action                           | Output                      | Measured time
+| :--------: | :----------------------------------------: | -------------------------------: | --------------------------: | --------------:
+| #61        | User: kostas, 123 | Login as customer | Favorites view  | 2,62
+| #10, 11    | | Search for dishes around current location	 | Dishes view |	5,54
+| #10, 11, 41, 68 | | Click on one restaurant | Imbiss view |	6,98
+| #11        | | Rate on advertised dish | Imbiss view | 0,38
+| #68        | | Comment on restaurant | Imbiss view | 5,89
+| #61        | | Logout | Home view  | 2,47
+| #61        | User: tdeekens, 123 | Login as restauarnt | Menu view | 2,82
+
+All measureents, except from measurements taken at the Imbiss and Dishes view resulted in positive time behavior (meaning less than 5s). At least, the time for loading the Imbiss view did not increase tremendously compared to last week, even though the rating functionality was added. The time behavior of the Dishes view is related to the number of dishes in the database. Since dishes have been changed and added it is natural that the time for loading the Dishes view has increased. Of course, it could be improved by limiting the number of dishes loaded at once to a certain number.
