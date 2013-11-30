@@ -74,3 +74,13 @@ The third sprint contained changes in dependencies and database. One dependency 
 | Installing    | ~ 155   |          18  |               5  |
 | Update local  | ~ 42    |          18  |               5  |
 | Update live   | ~ 35    |          18  |               5  |
+
+## Measurements after fourth sprint
+
+The fourth sprint contained mostly minior adjustments and cleanup work. It therefore did not add any new dependencies to the project. Nevertheless, some third-party libraries got updates which lead to some work for the dependency manager.
+
+| Task          | Seconds | Dependencies | Database changes |
+| :------------ | :-----: | :----------: | ---------------: |
+| Installing    | ~ 165   |          18  |               1  |
+| Update local  | ~ 50    |          18  |               1  |
+| Update live   | ~ 42    |          18  |               1  |
