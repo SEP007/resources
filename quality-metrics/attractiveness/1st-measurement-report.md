@@ -38,3 +38,13 @@ Related to the problem above, layout and color of items in the navigation bar wa
 Items of the pagination bar were regarded as small by one of the respondents and it was also pointed out that the functionality behind them (namely, the possibility to navigate to a certain item in the list) is not apparent (the latter is out of score of the measurement at hand, however it was treated as a feedback for Patat's usability). 
 Separators were also described as being of not sufficient size by one of the respondents, as well as the size and positioning of its content.
 Two of the respondents addressed the positioning and font of calculated price and distance as being inadequate.
+
+## The second measurement results
+
+The second measurement was conducted in a different fashion due to low level of Patat's interface changes at the time of collection. The respondents were asked [to rate Patat's attractiveness](https://docs.google.com/forms/d/1ZFX-bCfskDZz6wb73jjNXzwU1ydGZz7Qg8PEa9dCZKg/viewform) on a scale from 1 to 10 after being shown a short demo of the system and using it if needed.
+| Respondent        | Rating          |
+| :---------------: | :-------------: |
+| 1                 | 8               |
+| 1                 | 8               |
+| 1                 | 8               |
+| 1                 | 8               |
