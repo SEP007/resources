@@ -20,20 +20,20 @@ The following table contains the results obtained from the above mentioned inter
 
 As can be seen, the results vary quite significantly but not drastically. The differences can be attributed to the backgrounds of users: while respondent #1 has no technical background, respondent #2 has academic knowledge about the issues addressed in the survey and respondent #3 professionally works with software. Thus, obtained values were treated slightly differently when discussed within the team. The average result value of 0.81 was considered satisfactory, however a goal was set to obtain values higher than 0.80 for individual evaluations in the next measurement.
 
-## Qualitative data
+### Qualitative data
 
 To improve Patat's attractiveness, every user was asked for feedback about the aspects of the interface which they found not appealing. The discovered issues are subject for discussion within the development team and can possibly be taken into consideration when implementing future user stories.
 
-### Main problem areas
+#### Main problem areas
 
-#### Color scheme
+##### Color scheme
 Two respondents pointed out the relative monotony of the color scheme used in Patat. Insufficient use of contrasting colors hinders user's concentration on certain aspects of the page and makes Patat seem white and empty.
 
-#### Home page
+##### Home page
 ![alt text](https://raw.github.com/SEP007/resources/master/quality-metrics/attractiveness/resources/home-page.png "Patat's home page")
 Related to the problem above, layout and color of items in the navigation bar was described as unsatisfactory by one of the respondents. They expressed concern of not being able to locate themselves with respect to the items in the bar due to lack of indication of current position by means of different colors or shapes. This issue is not explicitly in the score of the discussed survey, but it was considered as a valuable feedback regarding Patat's usability.
 
-#### Search results page
+##### Search results page
 ![alt text](https://raw.github.com/SEP007/resources/master/quality-metrics/attractiveness/resources/search-results.png "Patat's search results page")
 Items of the pagination bar were regarded as small by one of the respondents and it was also pointed out that the functionality behind them (namely, the possibility to navigate to a certain item in the list) is not apparent (the latter is out of score of the measurement at hand, however it was treated as a feedback for Patat's usability). 
 Separators were also described as being of not sufficient size by one of the respondents, as well as the size and positioning of its content.
@@ -41,10 +41,34 @@ Two of the respondents addressed the positioning and font of calculated price an
 
 ## The second measurement results
 
-The second measurement was conducted in a different fashion due to low level of Patat's interface changes at the time of collection. The respondents were asked [to rate Patat's attractiveness](https://docs.google.com/forms/d/1ZFX-bCfskDZz6wb73jjNXzwU1ydGZz7Qg8PEa9dCZKg/viewform) on a scale from 1 to 10 after being shown a short demo of the system and using it if needed.
+The second measurement was conducted in a different fashion due to low level of Patat's interface changes at the time of the collection. The respondents were asked [to rate Patat's attractiveness](https://docs.google.com/forms/d/1ZFX-bCfskDZz6wb73jjNXzwU1ydGZz7Qg8PEa9dCZKg/viewform) on a scale from 1 to 10 after being shown a short demo of the system and using it if needed.
+
 | Respondent        | Rating          |
 | :---------------: | :-------------: |
 | 1                 | 8               |
-| 1                 | 8               |
-| 1                 | 8               |
-| 1                 | 8               |
+| 2                 | 7               |
+| 3                 | 10              |
+| 4                 | 10              |
+| 5                 | 10              |
+| 6                 | 10              |
+| 7                 | 7               |
+| 8                 | 7               |
+| 9                 | 7               |
+| 10                | 8               |
+| 11                | 8               |
+
+An average value of 0.84 was considered satisfactory as it is above the lowest acceptable border of 0.80.
+
+### Qualitative data
+
+The second measurement collection helped to identify the issues with Patat's interface that were not considered after the first measurement. These included inconsistencies in use of colors, not sufficient interactiveness of certain elements and unexpected, non-intuitive behaviour of the location page.
+
+## The third measurement results
+
+The third measurement was performed after the last sprint, when all accepted user stories were integrated into a final version of the system. During the project Patat's interface went through substantial changes as several new elements were introduced. The changes did not only occur in the originally existing views of Patat: a new view was created for displaying the favorites of a customer. Hence, the original questionnaire [was modified](https://docs.google.com/forms/d/1sqzUdpvnK8l1CAtPz0Tzyq-VAfmzOckCoJIiBFrvtL8/viewform) to take into account these changes and obtain an attractiveness value for the complete system. This resulted in a different maximum possible score of _ per questionnaire.
+
+| Respondent        | Sum           | Result |
+| :---------------: | :-------------: | -----: |
+| 1                 | xxx             | x   |
+| 2                 | xxx             | x  |
+| 3                 | xxx             | x   |
