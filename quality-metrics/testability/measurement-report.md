@@ -65,3 +65,14 @@ The third sprint mostly contained UI related changes and only a minor addition t
 | lmvc-utils    |   83% |     1.23 |
 | lmvc-modules  |   71% |    0.285 |
 | lmvc          |    0% |        - |
+
+## State after third sprint
+
+The fourth sprint introduced testing for the translation module which uses the session module which is an initial module. As it has been decided not to test initial, untested modules this lowered the overall coverage. Still, coverage among newly added modules is still above 70%.
+
+| Project       | %     | Seconds  |
+| :------------ | -----:| --------:|
+| lmvc-troba    |   62% |      4.2 |
+| lmvc-utils    |   83% |     1.23 |
+| lmvc-modules  |   56% |    0.302 |
+| lmvc          |    0% |        - |
