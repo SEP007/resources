@@ -65,10 +65,21 @@ The second measurement collection helped to identify the issues with Patat's int
 
 ## The third measurement results
 
-The third measurement was performed after the last sprint, when all accepted user stories were integrated into a final version of the system. During the project Patat's interface went through substantial changes as several new elements were introduced. The changes did not only occur in the originally existing views of Patat: a new view was created for displaying the favorites of a customer. Hence, the original questionnaire [was modified](https://docs.google.com/forms/d/1sqzUdpvnK8l1CAtPz0Tzyq-VAfmzOckCoJIiBFrvtL8/viewform) to take into account these changes and obtain an attractiveness value for the complete system. This resulted in a different maximum possible score of _ per questionnaire.
+The third measurement was performed after the last sprint, when all accepted user stories were integrated into a final version of the system. During the project Patat's interface went through substantial changes as several new elements were introduced. The changes did not only occur in the originally existing views of Patat: a new view was created for displaying the favorites of a customer. Hence, the original questionnaire [was modified](https://docs.google.com/forms/d/1sqzUdpvnK8l1CAtPz0Tzyq-VAfmzOckCoJIiBFrvtL8/viewform) to take into account these changes and obtain the attractiveness value for the complete system. This resulted in a different maximum possible score of 165 per questionnaire.
 
 | Respondent        | Sum           | Result |
 | :---------------: | :-------------: | -----: |
-| 1                 | xxx             | x   |
+| 1                 | 148             | 0.90   |
 | 2                 | xxx             | x  |
 | 3                 | xxx             | x   |
+
+### Qualitative data
+
+According to the respondents, the areas of Patat's interface design that could be mproved in the future included:
+  - readability of the elements (potentially caused by the choice of color scheme or fonts)
+  - not intuitive functionality behind the items in the pagination bar of the dishes view
+  - size of the map preview in the restaurant page
+  - non-compliance of the "hot deal" sign with the style of the other elements
+
+Nevertheless, the results of the measurement were considered acceptable, as the final value exceeded the lowest theshold. The respondents were satisfied with the appearance of Patat and emphasized on ease of navigation and ...
+ - 
